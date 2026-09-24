@@ -1,0 +1,24 @@
+# 统一行尾：数据文件与源码一律保留 LF，避免 Windows 全局 autocrlf=true 改写 JSON 数据
+* text=auto eol=lf
+
+# JSON 数据必须逐字节保持原样，禁止任何行尾转换
+*.json text eol=lf
+*.jsonl text eol=lf
+
+# 二进制资源不做转换（后续加美术资源时生效）
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+
+# 让 GitHub 正确识别
+*.md text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+*.mjs text eol=lf

@@ -1,0 +1,1034 @@
+{
+  "startingSeason": 1958,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 0,
+      "name": "Worthy Patterson",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 175,
+      "srID": "pattewo01",
+      "born": {
+        "year": 1931,
+        "loc": "Connecticut"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 46,
+          "jmp": 46,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 28,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 35,
+          "diq": 25,
+          "drb": 34,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 21,
+          "pot": 21
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UConn",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 1,
+      "name": "Win Wilfong",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 185,
+      "srID": "wilfowi01",
+      "born": {
+        "year": 1933,
+        "loc": "Missouri"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 30,
+          "stre": 26,
+          "spd": 62,
+          "jmp": 52,
+          "endu": 33,
+          "ins": 25,
+          "dnk": 36,
+          "ft": 62,
+          "fg": 42,
+          "tp": 25,
+          "oiq": 56,
+          "diq": 31,
+          "drb": 66,
+          "pss": 58,
+          "reb": 25,
+          "ovr": 38,
+          "pot": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Memphis",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 2,
+      "name": "Sam Jones",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 198,
+      "srID": "jonessa01",
+      "born": {
+        "year": 1933,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 42,
+          "spd": 73,
+          "jmp": 68,
+          "endu": 44,
+          "ins": 43,
+          "dnk": 46,
+          "ft": 66,
+          "fg": 52,
+          "tp": 35,
+          "oiq": 61,
+          "diq": 43,
+          "drb": 63,
+          "pss": 45,
+          "reb": 38,
+          "ovr": 55,
+          "pot": 64
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "NC Central",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 3,
+      "name": "Doug Bolstorff",
+      "pos": "G",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "bolstdo01",
+      "born": {
+        "year": 1931,
+        "loc": "Minnesota"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 31,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 28,
+          "tp": 25,
+          "oiq": 36,
+          "diq": 25,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 25,
+          "pot": 25
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Minnesota",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 4,
+      "name": "Bill Ebben",
+      "pos": "G",
+      "hgt": 76,
+      "weight": 190,
+      "srID": "ebbenbi01",
+      "born": {
+        "year": 1935,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 47,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 27,
+          "diq": 25,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Detroit Mercy",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 5,
+      "name": "Pat Dunn",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 170,
+      "srID": "dunnpa01",
+      "born": {
+        "year": 1931,
+        "loc": "United States"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 55,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 52,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 40,
+          "diq": 25,
+          "drb": 49,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 29,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Utah State University",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 6,
+      "name": "Ray Radziszewski",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "radzira01",
+      "born": {
+        "year": 1935,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 41,
+          "stre": 31,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 28,
+          "dnk": 28,
+          "ft": 44,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 32,
+          "diq": 25,
+          "drb": 44,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 7,
+      "name": "Lennie Rosenbluth",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 190,
+      "srID": "rosenle01",
+      "born": {
+        "year": 1933,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 59,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 41,
+          "fg": 27,
+          "tp": 25,
+          "oiq": 34,
+          "diq": 25,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UNC",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 8,
+      "name": "Woody Sauldsberry",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 220,
+      "srID": "sauldwo01",
+      "born": {
+        "year": 1934,
+        "loc": "Louisiana"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 48,
+          "stre": 31,
+          "spd": 58,
+          "jmp": 65,
+          "endu": 51,
+          "ins": 25,
+          "dnk": 49,
+          "ft": 52,
+          "fg": 56,
+          "tp": 25,
+          "oiq": 45,
+          "diq": 37,
+          "drb": 56,
+          "pss": 28,
+          "reb": 59,
+          "ovr": 43,
+          "pot": 49
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas Southern",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 9,
+      "name": "Jim Walsh",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "walshji01",
+      "born": {
+        "year": 1930,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 30,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 27,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 39,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 35,
+          "diq": 25,
+          "drb": 42,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 25,
+          "pot": 25
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 10,
+      "name": "George Brown",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 190,
+      "srID": "brownge01",
+      "born": {
+        "year": 1935,
+        "loc": "Louisiana"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 28,
+          "dnk": 29,
+          "ft": 33,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 27,
+          "diq": 25,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 24,
+          "pot": 24
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Wayne State University",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 11,
+      "name": "Bo Erias",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 220,
+      "srID": "eriasbo01",
+      "born": {
+        "year": 1932,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 33,
+          "stre": 59,
+          "spd": 42,
+          "jmp": 52,
+          "endu": 37,
+          "ins": 26,
+          "dnk": 45,
+          "ft": 59,
+          "fg": 52,
+          "tp": 25,
+          "oiq": 53,
+          "diq": 31,
+          "drb": 64,
+          "pss": 45,
+          "reb": 25,
+          "ovr": 38,
+          "pot": 38
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Niagara University",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 12,
+      "name": "Hot Rod Hundley",
+      "pos": "PG",
+      "hgt": 76,
+      "weight": 185,
+      "srID": "hundlho01",
+      "born": {
+        "year": 1934,
+        "loc": "West Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 69,
+          "jmp": 60,
+          "endu": 34,
+          "ins": 25,
+          "dnk": 40,
+          "ft": 60,
+          "fg": 48,
+          "tp": 25,
+          "oiq": 52,
+          "diq": 32,
+          "drb": 69,
+          "pss": 60,
+          "reb": 27,
+          "ovr": 43,
+          "pot": 53
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "West Virginia",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 13,
+      "name": "McCoy Ingram",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "ingramc01",
+      "born": {
+        "year": 1931,
+        "loc": "United States"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 52,
+          "stre": 33,
+          "spd": 60,
+          "jmp": 69,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 29,
+          "ft": 30,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 36,
+          "diq": 25,
+          "drb": 42,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 32,
+          "pot": 32
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Jackson State University",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 14,
+      "name": "Jim Krebs",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "krebsji01",
+      "born": {
+        "year": 1935,
+        "loc": "Missouri"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 52,
+          "stre": 33,
+          "spd": 57,
+          "jmp": 68,
+          "endu": 32,
+          "ins": 37,
+          "dnk": 55,
+          "ft": 67,
+          "fg": 45,
+          "tp": 25,
+          "oiq": 54,
+          "diq": 32,
+          "drb": 41,
+          "pss": 26,
+          "reb": 55,
+          "ovr": 42,
+          "pot": 51
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "SMU",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 15
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 15,
+      "name": "Larry Friend",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 185,
+      "srID": "frienla01",
+      "born": {
+        "year": 1935,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 59,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 42,
+          "fg": 26,
+          "tp": 25,
+          "oiq": 35,
+          "diq": 25,
+          "drb": 49,
+          "pss": 26,
+          "reb": 25,
+          "ovr": 29,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "California",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 16,
+      "name": "Brendan McCann",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 178,
+      "srID": "mccanbr01",
+      "born": {
+        "year": 1935,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 53,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 33,
+          "diq": 25,
+          "drb": 51,
+          "pss": 35,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. Bonaventure",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 17,
+      "name": "Guy Sparrow",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 218,
+      "srID": "sparrgu01",
+      "born": {
+        "year": 1932,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 44,
+          "stre": 38,
+          "spd": 55,
+          "jmp": 60,
+          "endu": 36,
+          "ins": 25,
+          "dnk": 49,
+          "ft": 55,
+          "fg": 53,
+          "tp": 25,
+          "oiq": 53,
+          "diq": 30,
+          "drb": 57,
+          "pss": 29,
+          "reb": 46,
+          "ovr": 39,
+          "pot": 41
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Detroit Mercy",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 18,
+      "name": "Charlie Tyra",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "tyrach01",
+      "born": {
+        "year": 1935,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 52,
+          "stre": 32,
+          "spd": 56,
+          "jmp": 67,
+          "endu": 30,
+          "ins": 36,
+          "dnk": 56,
+          "ft": 62,
+          "fg": 43,
+          "tp": 25,
+          "oiq": 51,
+          "diq": 31,
+          "drb": 40,
+          "pss": 27,
+          "reb": 54,
+          "ovr": 40,
+          "pot": 49
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Louisville",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 19
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 19,
+      "name": "Dick Duckett",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 185,
+      "srID": "duckedi01",
+      "born": {
+        "year": 1933,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 26,
+          "stre": 32,
+          "spd": 59,
+          "jmp": 49,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 56,
+          "fg": 26,
+          "tp": 25,
+          "oiq": 38,
+          "diq": 25,
+          "drb": 51,
+          "pss": 33,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 20
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 20,
+      "name": "Jerry Paulson",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 185,
+      "srID": "paulsje01",
+      "born": {
+        "year": 1935,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1958,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 42,
+          "fg": 26,
+          "tp": 25,
+          "oiq": 35,
+          "diq": 25,
+          "drb": 45,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Manhattan University",
+      "draft": {
+        "year": 1958,
+        "round": 1,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1960
+      }
+    }
+  ]
+}

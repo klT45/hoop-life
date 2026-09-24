@@ -1,0 +1,1950 @@
+{
+  "startingSeason": 2005,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 1,
+      "name": "Josh Childress",
+      "pos": "GF",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "childjo01",
+      "born": {
+        "year": 1983,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 52,
+          "stre": 22,
+          "spd": 58,
+          "jmp": 64,
+          "endu": 52,
+          "ins": 38,
+          "dnk": 44,
+          "ft": 50,
+          "fg": 42,
+          "tp": 42,
+          "diq": 38,
+          "oiq": 54,
+          "drb": 60,
+          "pss": 44,
+          "reb": 38,
+          "ovr": 50,
+          "pot": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 6,
+      "name": "Royal Ivey",
+      "pos": "PG",
+      "hgt": 75,
+      "weight": 200,
+      "srID": "iveyro01",
+      "born": {
+        "year": 1981,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 33,
+          "stre": 40,
+          "spd": 52,
+          "jmp": 49,
+          "endu": 27,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 53,
+          "fg": 32,
+          "tp": 40,
+          "diq": 25,
+          "oiq": 43,
+          "drb": 49,
+          "pss": 39,
+          "reb": 25,
+          "ovr": 31,
+          "pot": 37
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 37
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 10,
+      "name": "Donta Smith",
+      "pos": "GF",
+      "hgt": 79,
+      "weight": 215,
+      "srID": "smithdo04",
+      "born": {
+        "year": 1983,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 55,
+          "jmp": 59,
+          "endu": 25,
+          "ins": 32,
+          "dnk": 30,
+          "ft": 32,
+          "fg": 29,
+          "tp": 45,
+          "diq": 25,
+          "oiq": 31,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Southeastern Illinois College",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 34
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 11,
+      "name": "Josh Smith",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 225,
+      "srID": "smithjo03",
+      "born": {
+        "year": 1985,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 56,
+          "stre": 5,
+          "spd": 65,
+          "jmp": 68,
+          "endu": 62,
+          "ins": 29,
+          "dnk": 34,
+          "ft": 35,
+          "fg": 33,
+          "tp": 37,
+          "diq": 61,
+          "oiq": 56,
+          "drb": 63,
+          "pss": 66,
+          "reb": 44,
+          "ovr": 58,
+          "pot": 71
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 15,
+      "name": "Tony Allen",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 213,
+      "srID": "allento01",
+      "born": {
+        "year": 1982,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 37,
+          "stre": 47,
+          "spd": 49,
+          "jmp": 53,
+          "endu": 34,
+          "ins": 45,
+          "dnk": 42,
+          "ft": 66,
+          "fg": 49,
+          "tp": 31,
+          "diq": 50,
+          "oiq": 58,
+          "drb": 61,
+          "pss": 36,
+          "reb": 36,
+          "ovr": 47,
+          "pot": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Butler County Community College",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 25
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 23,
+      "name": "Al Jefferson",
+      "pos": "F",
+      "hgt": 82,
+      "weight": 289,
+      "srID": "jeffeal01",
+      "born": {
+        "year": 1985,
+        "loc": "Mississippi"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 59,
+          "stre": 57,
+          "spd": 31,
+          "jmp": 73,
+          "endu": 60,
+          "ins": 40,
+          "dnk": 27,
+          "ft": 46,
+          "fg": 47,
+          "tp": 26,
+          "diq": 56,
+          "oiq": 63,
+          "drb": 61,
+          "pss": 45,
+          "reb": 57,
+          "ovr": 57,
+          "pot": 70
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 15
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 29,
+      "name": "Justin Reed",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 240,
+      "srID": "reedju01",
+      "born": {
+        "year": 1982,
+        "loc": "Mississippi"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 52,
+          "stre": 43,
+          "spd": 44,
+          "jmp": 63,
+          "endu": 25,
+          "ins": 30,
+          "dnk": 30,
+          "ft": 50,
+          "fg": 29,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 32,
+          "drb": 36,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 29,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ole Miss",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 40
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 32,
+      "name": "Delonte West",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 180,
+      "srID": "westde01",
+      "born": {
+        "year": 1983,
+        "loc": "District of Columbia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 33,
+          "stre": 6,
+          "spd": 68,
+          "jmp": 58,
+          "endu": 50,
+          "ins": 20,
+          "dnk": 14,
+          "ft": 48,
+          "fg": 34,
+          "tp": 62,
+          "diq": 42,
+          "oiq": 58,
+          "drb": 64,
+          "pss": 74,
+          "reb": 13,
+          "ovr": 50,
+          "pot": 59
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 24
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 52,
+      "name": "Luol Deng",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 237,
+      "srID": "denglu01",
+      "born": {
+        "year": 1985,
+        "loc": "South Sudan"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 56,
+          "stre": 25,
+          "spd": 55,
+          "jmp": 67,
+          "endu": 61,
+          "ins": 34,
+          "dnk": 44,
+          "ft": 51,
+          "fg": 44,
+          "tp": 52,
+          "diq": 50,
+          "oiq": 57,
+          "drb": 65,
+          "pss": 53,
+          "reb": 46,
+          "ovr": 58,
+          "pot": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 53,
+      "name": "Chris Duhon",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 185,
+      "srID": "duhonch01",
+      "born": {
+        "year": 1982,
+        "loc": "Louisiana"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 26,
+          "stre": 32,
+          "spd": 57,
+          "jmp": 46,
+          "endu": 45,
+          "ins": 28,
+          "dnk": 27,
+          "ft": 64,
+          "fg": 45,
+          "tp": 62,
+          "diq": 29,
+          "oiq": 57,
+          "drb": 56,
+          "pss": 78,
+          "reb": 25,
+          "ovr": 44,
+          "pot": 49
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 38
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 54,
+      "name": "Ben Gordon",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 200,
+      "srID": "gordobe01",
+      "born": {
+        "year": 1983,
+        "loc": "United Kingdom"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 33,
+          "stre": 9,
+          "spd": 60,
+          "jmp": 58,
+          "endu": 52,
+          "ins": 18,
+          "dnk": 28,
+          "ft": 48,
+          "fg": 32,
+          "tp": 72,
+          "diq": 38,
+          "oiq": 64,
+          "drb": 70,
+          "pss": 62,
+          "reb": 0,
+          "ovr": 50,
+          "pot": 65
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UConn",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 79,
+      "name": "Emeka Okafor",
+      "pos": "F",
+      "hgt": 82,
+      "weight": 252,
+      "srID": "okafoem01",
+      "born": {
+        "year": 1982,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 59,
+          "stre": 18,
+          "spd": 52,
+          "jmp": 70,
+          "endu": 58,
+          "ins": 26,
+          "dnk": 11,
+          "ft": 28,
+          "fg": 24,
+          "tp": 26,
+          "diq": 56,
+          "oiq": 58,
+          "drb": 54,
+          "pss": 26,
+          "reb": 52,
+          "ovr": 50,
+          "pot": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UConn",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 80,
+      "name": "Bernard Robinson",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 210,
+      "srID": "robinbe01",
+      "born": {
+        "year": 1980,
+        "loc": "District of Columbia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 44,
+          "stre": 31,
+          "spd": 55,
+          "jmp": 57,
+          "endu": 27,
+          "ins": 28,
+          "dnk": 32,
+          "ft": 59,
+          "fg": 36,
+          "tp": 27,
+          "diq": 28,
+          "oiq": 43,
+          "drb": 51,
+          "pss": 27,
+          "reb": 29,
+          "ovr": 33,
+          "pot": 34
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 45
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 90,
+      "name": "Luke Jackson",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 215,
+      "srID": "jackslu02",
+      "born": {
+        "year": 1981,
+        "loc": "Oregon"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 48,
+          "stre": 42,
+          "spd": 62,
+          "jmp": 64,
+          "endu": 36,
+          "ins": 38,
+          "dnk": 42,
+          "ft": 60,
+          "fg": 42,
+          "tp": 54,
+          "diq": 36,
+          "oiq": 52,
+          "drb": 54,
+          "pss": 38,
+          "reb": 36,
+          "ovr": 50,
+          "pot": 36
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Oregon",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 98,
+      "name": "Anderson Varejão",
+      "pos": "FC",
+      "hgt": 83,
+      "weight": 273,
+      "srID": "varejan01",
+      "born": {
+        "year": 1982,
+        "loc": "Brazil"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 63,
+          "stre": 66,
+          "spd": 38,
+          "jmp": 68,
+          "endu": 51,
+          "ins": 58,
+          "dnk": 42,
+          "ft": 62,
+          "fg": 52,
+          "tp": 25,
+          "diq": 50,
+          "oiq": 56,
+          "drb": 52,
+          "pss": 46,
+          "reb": 81,
+          "ovr": 57,
+          "pot": 66
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 30
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 106,
+      "name": "Devin Harris",
+      "pos": "PG",
+      "hgt": 75,
+      "weight": 185,
+      "srID": "harride01",
+      "born": {
+        "year": 1983,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 33,
+          "stre": 14,
+          "spd": 71,
+          "jmp": 58,
+          "endu": 52,
+          "ins": 40,
+          "dnk": 41,
+          "ft": 61,
+          "fg": 46,
+          "tp": 40,
+          "diq": 39,
+          "oiq": 66,
+          "drb": 71,
+          "pss": 81,
+          "reb": 13,
+          "ovr": 54,
+          "pot": 65
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Wisconsin",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 111,
+      "name": "Pavel Podkolzin",
+      "pos": "C",
+      "hgt": 89,
+      "weight": 260,
+      "srID": "podkopa01",
+      "born": {
+        "year": 1985,
+        "loc": "Russia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 85,
+          "stre": 40,
+          "spd": 42,
+          "jmp": 50,
+          "endu": 26,
+          "ins": 45,
+          "dnk": 43,
+          "ft": 45,
+          "fg": 25,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 30,
+          "drb": 32,
+          "pss": 25,
+          "reb": 43,
+          "ovr": 35,
+          "pot": 37
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 151,
+      "name": "Andris Biedriņš",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 240,
+      "srID": "biedran01",
+      "born": {
+        "year": 1986,
+        "loc": "Latvia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 63,
+          "stre": 38,
+          "spd": 49,
+          "jmp": 69,
+          "endu": 40,
+          "ins": 63,
+          "dnk": 42,
+          "ft": 43,
+          "fg": 50,
+          "tp": 24,
+          "diq": 43,
+          "oiq": 49,
+          "drb": 42,
+          "pss": 36,
+          "reb": 76,
+          "ovr": 48,
+          "pot": 59
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 189,
+      "name": "David Harrison",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 280,
+      "srID": "harrida01",
+      "born": {
+        "year": 1982,
+        "loc": "Tennessee"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 67,
+          "stre": 55,
+          "spd": 36,
+          "jmp": 68,
+          "endu": 25,
+          "ins": 54,
+          "dnk": 34,
+          "ft": 46,
+          "fg": 40,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 34,
+          "pss": 25,
+          "reb": 32,
+          "ovr": 35,
+          "pot": 37
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Colorado",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 29
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 207,
+      "name": "Shaun Livingston",
+      "pos": "GF",
+      "hgt": 79,
+      "weight": 192,
+      "srID": "livinsh01",
+      "born": {
+        "year": 1985,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 64,
+          "endu": 36,
+          "ins": 38,
+          "dnk": 39,
+          "ft": 65,
+          "fg": 46,
+          "tp": 28,
+          "diq": 32,
+          "oiq": 56,
+          "drb": 59,
+          "pss": 68,
+          "reb": 28,
+          "ovr": 49,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 231,
+      "name": "Sasha Vujačić",
+      "pos": "GF",
+      "hgt": 79,
+      "weight": 195,
+      "srID": "vujacsa01",
+      "born": {
+        "year": 1984,
+        "loc": "Slovenia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 64,
+          "endu": 32,
+          "ins": 27,
+          "dnk": 29,
+          "ft": 62,
+          "fg": 39,
+          "tp": 54,
+          "diq": 26,
+          "oiq": 49,
+          "drb": 58,
+          "pss": 41,
+          "reb": 25,
+          "ovr": 44,
+          "pot": 53
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 27
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 236,
+      "name": "Antonio Burks",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 200,
+      "srID": "burksan01",
+      "born": {
+        "year": 1980,
+        "loc": "Tennessee"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 26,
+          "stre": 47,
+          "spd": 43,
+          "jmp": 43,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 25,
+          "ft": 38,
+          "fg": 27,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 43,
+          "pss": 30,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Memphis",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 36
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 264,
+      "name": "Dorell Wright",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 205,
+      "srID": "wrighdo01",
+      "born": {
+        "year": 1985,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 56,
+          "stre": 13,
+          "spd": 60,
+          "jmp": 68,
+          "endu": 47,
+          "ins": 22,
+          "dnk": 28,
+          "ft": 46,
+          "fg": 34,
+          "tp": 57,
+          "diq": 39,
+          "oiq": 50,
+          "drb": 58,
+          "pss": 47,
+          "reb": 29,
+          "ovr": 50,
+          "pot": 66
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 19
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 299,
+      "name": "J.R. Smith",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 225,
+      "srID": "smithjr01",
+      "born": {
+        "year": 1985,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 44,
+          "stre": 19,
+          "spd": 51,
+          "jmp": 61,
+          "endu": 54,
+          "ins": 13,
+          "dnk": 20,
+          "ft": 40,
+          "fg": 34,
+          "tp": 66,
+          "diq": 42,
+          "oiq": 56,
+          "drb": 68,
+          "pss": 53,
+          "reb": 13,
+          "ovr": 50,
+          "pot": 64
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "North Carolina A&T",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 300,
+      "name": "Kirk Snyder",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 225,
+      "srID": "snydeki01",
+      "born": {
+        "year": 1983,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 44,
+          "stre": 41,
+          "spd": 48,
+          "jmp": 59,
+          "endu": 30,
+          "ins": 38,
+          "dnk": 37,
+          "ft": 61,
+          "fg": 44,
+          "tp": 44,
+          "diq": 25,
+          "oiq": 51,
+          "drb": 59,
+          "pss": 39,
+          "reb": 26,
+          "ovr": 39,
+          "pot": 46
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Nevada",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 301,
+      "name": "Jackson Vroman",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 220,
+      "srID": "vromaja01",
+      "born": {
+        "year": 1981,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 59,
+          "stre": 37,
+          "spd": 49,
+          "jmp": 69,
+          "endu": 25,
+          "ins": 33,
+          "dnk": 25,
+          "ft": 50,
+          "fg": 34,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 36,
+          "drb": 37,
+          "pss": 25,
+          "reb": 43,
+          "ovr": 33,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Iowa State",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 31
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 304,
+      "name": "Trevor Ariza",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 215,
+      "srID": "arizatr01",
+      "born": {
+        "year": 1985,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 52,
+          "stre": 0,
+          "spd": 60,
+          "jmp": 66,
+          "endu": 56,
+          "ins": 0,
+          "dnk": 0,
+          "ft": 22,
+          "fg": 13,
+          "tp": 54,
+          "diq": 50,
+          "oiq": 56,
+          "drb": 64,
+          "pss": 56,
+          "reb": 8,
+          "ovr": 50,
+          "pot": 66
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UCLA",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 43
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 333,
+      "name": "Robert Swift",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 245,
+      "srID": "swiftro01",
+      "born": {
+        "year": 1985,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 67,
+          "stre": 41,
+          "spd": 40,
+          "jmp": 66,
+          "endu": 28,
+          "ins": 42,
+          "dnk": 28,
+          "ft": 48,
+          "fg": 36,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 33,
+          "pss": 25,
+          "reb": 51,
+          "ovr": 33,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 341,
+      "name": "Dwight Howard",
+      "pos": "F",
+      "hgt": 82,
+      "weight": 265,
+      "srID": "howardw01",
+      "born": {
+        "year": 1985,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 59,
+          "stre": 48,
+          "spd": 46,
+          "jmp": 74,
+          "endu": 67,
+          "ins": 59,
+          "dnk": 53,
+          "ft": 47,
+          "fg": 50,
+          "tp": 28,
+          "diq": 76,
+          "oiq": 66,
+          "drb": 52,
+          "pss": 32,
+          "reb": 77,
+          "ovr": 63,
+          "pot": 76
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 344,
+      "name": "Jameer Nelson",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 190,
+      "srID": "nelsoja01",
+      "born": {
+        "year": 1982,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 22,
+          "stre": 40,
+          "spd": 54,
+          "jmp": 48,
+          "endu": 50,
+          "ins": 35,
+          "dnk": 32,
+          "ft": 61,
+          "fg": 53,
+          "tp": 65,
+          "diq": 40,
+          "oiq": 60,
+          "drb": 69,
+          "pss": 86,
+          "reb": 20,
+          "ovr": 52,
+          "pot": 59
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 20
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 353,
+      "name": "Andre Iguodala",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 215,
+      "srID": "iguodan01",
+      "born": {
+        "year": 1984,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 44,
+          "stre": 21,
+          "spd": 59,
+          "jmp": 62,
+          "endu": 57,
+          "ins": 43,
+          "dnk": 38,
+          "ft": 47,
+          "fg": 43,
+          "tp": 49,
+          "diq": 59,
+          "oiq": 58,
+          "drb": 65,
+          "pss": 72,
+          "reb": 33,
+          "ovr": 58,
+          "pot": 68
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Arizona",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 379,
+      "name": "Viktor Khryapa",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 210,
+      "srID": "khryavi01",
+      "born": {
+        "year": 1982,
+        "loc": "Ukraine"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 56,
+          "stre": 26,
+          "spd": 54,
+          "jmp": 65,
+          "endu": 27,
+          "ins": 31,
+          "dnk": 36,
+          "ft": 51,
+          "fg": 35,
+          "tp": 39,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 45,
+          "pss": 27,
+          "reb": 39,
+          "ovr": 35,
+          "pot": 38
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 22
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 381,
+      "name": "Sergei Monia",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 220,
+      "srID": "moniase01",
+      "born": {
+        "year": 1983,
+        "loc": "Russia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 48,
+          "jmp": 48,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 48,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 30,
+          "drb": 40,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 23
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 386,
+      "name": "Ha Seung-Jin",
+      "pos": "C",
+      "hgt": 87,
+      "weight": 305,
+      "srID": "seungha01",
+      "born": {
+        "year": 1985,
+        "loc": "South Korea"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 78,
+          "stre": 58,
+          "spd": 34,
+          "jmp": 70,
+          "endu": 25,
+          "ins": 35,
+          "dnk": 25,
+          "ft": 33,
+          "fg": 28,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 25,
+          "drb": 30,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 33,
+          "pot": 34
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 46
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 388,
+      "name": "Sebastian Telfair",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 165,
+      "srID": "telfase01",
+      "born": {
+        "year": 1985,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 22,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 48,
+          "endu": 35,
+          "ins": 28,
+          "dnk": 30,
+          "ft": 64,
+          "fg": 48,
+          "tp": 46,
+          "diq": 25,
+          "oiq": 51,
+          "drb": 63,
+          "pss": 71,
+          "reb": 25,
+          "ovr": 37,
+          "pot": 42
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 394,
+      "name": "Kevin Martin",
+      "pos": "GF",
+      "hgt": 79,
+      "weight": 199,
+      "srID": "martike02",
+      "born": {
+        "year": 1983,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 48,
+          "stre": 0,
+          "spd": 72,
+          "jmp": 67,
+          "endu": 55,
+          "ins": 0,
+          "dnk": 2,
+          "ft": 13,
+          "fg": 0,
+          "tp": 68,
+          "diq": 35,
+          "oiq": 64,
+          "drb": 68,
+          "pss": 49,
+          "reb": 0,
+          "ovr": 50,
+          "pot": 71
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Western Carolina University",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 26
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 414,
+      "name": "Beno Udrih",
+      "pos": "PG",
+      "hgt": 75,
+      "weight": 205,
+      "srID": "udrihbe01",
+      "born": {
+        "year": 1982,
+        "loc": "Slovenia"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 33,
+          "stre": 45,
+          "spd": 53,
+          "jmp": 52,
+          "endu": 47,
+          "ins": 42,
+          "dnk": 37,
+          "ft": 64,
+          "fg": 51,
+          "tp": 50,
+          "diq": 35,
+          "oiq": 55,
+          "drb": 62,
+          "pss": 71,
+          "reb": 28,
+          "ovr": 49,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 28
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 416,
+      "name": "Rafael Araújo",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 280,
+      "srID": "araujra01",
+      "born": {
+        "year": 1980,
+        "loc": "Brazil"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 63,
+          "stre": 68,
+          "spd": 33,
+          "jmp": 67,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 25,
+          "ft": 40,
+          "fg": 26,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 29,
+          "drb": 32,
+          "pss": 25,
+          "reb": 26,
+          "ovr": 31,
+          "pot": 32
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "BYU",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 424,
+      "name": "Pape Sow",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 250,
+      "srID": "sowpa01",
+      "born": {
+        "year": 1981,
+        "loc": "Senegal"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 59,
+          "stre": 44,
+          "spd": 48,
+          "jmp": 65,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 25,
+          "ft": 46,
+          "fg": 26,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 28,
+          "drb": 32,
+          "pss": 25,
+          "reb": 32,
+          "ovr": 30,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cal State Fullerton",
+      "draft": {
+        "year": 2004,
+        "round": 2,
+        "pick": 47
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 434,
+      "name": "Kris Humphries",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 235,
+      "srID": "humphkr01",
+      "born": {
+        "year": 1985,
+        "loc": "Minnesota"
+      },
+      "ratings": [
+        {
+          "season": 2006,
+          "hgt": 56,
+          "stre": 38,
+          "spd": 55,
+          "jmp": 69,
+          "endu": 45,
+          "ins": 43,
+          "dnk": 50,
+          "ft": 59,
+          "fg": 47,
+          "tp": 26,
+          "diq": 38,
+          "oiq": 49,
+          "drb": 54,
+          "pss": 30,
+          "reb": 69,
+          "ovr": 48,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Minnesota",
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2007
+      }
+    }
+  ]
+}

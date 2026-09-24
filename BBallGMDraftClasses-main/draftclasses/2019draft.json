@@ -1,0 +1,2595 @@
+{
+  "startingSeason": 2020,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 4,
+      "name": "Bruno Fernando",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 240,
+      "srID": "fernabr01",
+      "born": {
+        "year": 1998,
+        "loc": "Angola"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 56,
+          "stre": 41,
+          "spd": 51,
+          "jmp": 64,
+          "endu": 25,
+          "ins": 53,
+          "dnk": 47,
+          "ft": 52,
+          "fg": 36,
+          "tp": 24,
+          "diq": 26,
+          "oiq": 43,
+          "drb": 36,
+          "pss": 25,
+          "reb": 43,
+          "ovr": 35,
+          "pot": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Maryland",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 34
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 9,
+      "name": "De'Andre Hunter",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 221,
+      "srID": "huntede01",
+      "born": {
+        "year": 1997,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 20,
+          "spd": 58,
+          "jmp": 66,
+          "endu": 57,
+          "ins": 39,
+          "dnk": 47,
+          "ft": 53,
+          "fg": 44,
+          "tp": 52,
+          "diq": 33,
+          "oiq": 57,
+          "drb": 64,
+          "pss": 35,
+          "reb": 31,
+          "ovr": 50,
+          "pot": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Virginia",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 13,
+      "name": "Cam Reddish",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 230,
+      "srID": "reddica01",
+      "born": {
+        "year": 1999,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 38,
+          "spd": 50,
+          "jmp": 63,
+          "endu": 44,
+          "ins": 40,
+          "dnk": 44,
+          "ft": 68,
+          "fg": 50,
+          "tp": 34,
+          "diq": 30,
+          "oiq": 44,
+          "drb": 57,
+          "pss": 25,
+          "reb": 34,
+          "ovr": 39,
+          "pot": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 19,
+      "name": "Carsen Edwards",
+      "pos": "SG",
+      "hgt": 71,
+      "weight": 200,
+      "srID": "edwarca01",
+      "born": {
+        "year": 1998,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 19,
+          "stre": 52,
+          "spd": 34,
+          "jmp": 38,
+          "endu": 29,
+          "ins": 29,
+          "dnk": 25,
+          "ft": 49,
+          "fg": 39,
+          "tp": 28,
+          "diq": 25,
+          "oiq": 41,
+          "drb": 45,
+          "pss": 40,
+          "reb": 25,
+          "ovr": 24,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Purdue",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 33
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 24,
+      "name": "Romeo Langford",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 216,
+      "srID": "langfro01",
+      "born": {
+        "year": 1999,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 37,
+          "spd": 47,
+          "jmp": 53,
+          "endu": 25,
+          "ins": 36,
+          "dnk": 29,
+          "ft": 53,
+          "fg": 39,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 53,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 29,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Indiana",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 36,
+      "name": "Tremont Waters",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 175,
+      "srID": "watertr01",
+      "born": {
+        "year": 1998,
+        "loc": "Connecticut"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 15,
+          "stre": 33,
+          "spd": 53,
+          "jmp": 40,
+          "endu": 25,
+          "ins": 27,
+          "dnk": 25,
+          "ft": 56,
+          "fg": 27,
+          "tp": 36,
+          "diq": 26,
+          "oiq": 41,
+          "drb": 42,
+          "pss": 42,
+          "reb": 25,
+          "ovr": 25,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "LSU",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 51
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 37,
+      "name": "Grant Williams",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 236,
+      "srID": "willigr01",
+      "born": {
+        "year": 1998,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 49,
+          "spd": 44,
+          "jmp": 60,
+          "endu": 41,
+          "ins": 49,
+          "dnk": 38,
+          "ft": 64,
+          "fg": 47,
+          "tp": 59,
+          "diq": 29,
+          "oiq": 54,
+          "drb": 52,
+          "pss": 37,
+          "reb": 42,
+          "ovr": 46,
+          "pot": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Tennessee",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 22
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 43,
+      "name": "Nic Claxton",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 215,
+      "srID": "claxtni01",
+      "born": {
+        "year": 1999,
+        "loc": "South Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 63,
+          "stre": 14,
+          "spd": 52,
+          "jmp": 70,
+          "endu": 46,
+          "ins": 44,
+          "dnk": 24,
+          "ft": 30,
+          "fg": 29,
+          "tp": 25,
+          "diq": 46,
+          "oiq": 58,
+          "drb": 52,
+          "pss": 46,
+          "reb": 50,
+          "ovr": 49,
+          "pot": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Georgia",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 31
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 72,
+      "name": "Daniel Gafford",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 265,
+      "srID": "gaffoda01",
+      "born": {
+        "year": 1998,
+        "loc": "Arkansas"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 59,
+          "stre": 63,
+          "spd": 40,
+          "jmp": 70,
+          "endu": 34,
+          "ins": 65,
+          "dnk": 44,
+          "ft": 55,
+          "fg": 50,
+          "tp": 24,
+          "diq": 43,
+          "oiq": 55,
+          "drb": 46,
+          "pss": 30,
+          "reb": 71,
+          "ovr": 50,
+          "pot": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Arkansas",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 38
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 82,
+      "name": "Coby White",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "whiteco01",
+      "born": {
+        "year": 2000,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 37,
+          "stre": 1,
+          "spd": 66,
+          "jmp": 60,
+          "endu": 62,
+          "ins": 20,
+          "dnk": 16,
+          "ft": 44,
+          "fg": 30,
+          "tp": 70,
+          "diq": 30,
+          "oiq": 62,
+          "drb": 70,
+          "pss": 70,
+          "reb": 1,
+          "ovr": 50,
+          "pot": 63
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UNC",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 93,
+      "name": "Cody Martin",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 205,
+      "srID": "martico01",
+      "born": {
+        "year": 1995,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 27,
+          "spd": 59,
+          "jmp": 57,
+          "endu": 36,
+          "ins": 42,
+          "dnk": 36,
+          "ft": 55,
+          "fg": 43,
+          "tp": 40,
+          "diq": 34,
+          "oiq": 53,
+          "drb": 55,
+          "pss": 50,
+          "reb": 35,
+          "ovr": 44,
+          "pot": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "NC State",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 36
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 94,
+      "name": "Jalen McDaniels",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 205,
+      "srID": "mcdanja01",
+      "born": {
+        "year": 1998,
+        "loc": "Washington"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 56,
+          "stre": 27,
+          "spd": 56,
+          "jmp": 66,
+          "endu": 31,
+          "ins": 42,
+          "dnk": 39,
+          "ft": 62,
+          "fg": 43,
+          "tp": 49,
+          "diq": 29,
+          "oiq": 46,
+          "drb": 52,
+          "pss": 26,
+          "reb": 42,
+          "ovr": 42,
+          "pot": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "San Diego State",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 52
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 100,
+      "name": "P.J. Washington",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 230,
+      "srID": "washipj01",
+      "born": {
+        "year": 1998,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 9,
+          "spd": 52,
+          "jmp": 64,
+          "endu": 62,
+          "ins": 11,
+          "dnk": 16,
+          "ft": 32,
+          "fg": 22,
+          "tp": 60,
+          "diq": 48,
+          "oiq": 58,
+          "drb": 62,
+          "pss": 42,
+          "reb": 22,
+          "ovr": 50,
+          "pot": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kentucky",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 109,
+      "name": "Darius Garland",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 192,
+      "srID": "garlada01",
+      "born": {
+        "year": 2000,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 26,
+          "stre": 18,
+          "spd": 60,
+          "jmp": 54,
+          "endu": 71,
+          "ins": 34,
+          "dnk": 37,
+          "ft": 56,
+          "fg": 46,
+          "tp": 74,
+          "diq": 37,
+          "oiq": 65,
+          "drb": 69,
+          "pss": 87,
+          "reb": 13,
+          "ovr": 55,
+          "pot": 66
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Vanderbilt",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 111,
+      "name": "Mfiondu Kabengele",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 250,
+      "srID": "kabenmf01",
+      "born": {
+        "year": 1997,
+        "loc": "Ontario"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 59,
+          "stre": 41,
+          "spd": 49,
+          "jmp": 55,
+          "endu": 25,
+          "ins": 35,
+          "dnk": 25,
+          "ft": 50,
+          "fg": 27,
+          "tp": 37,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 32,
+          "pot": 34
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Florida State",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 27
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 124,
+      "name": "Dylan Windler",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 196,
+      "srID": "windldy01",
+      "born": {
+        "year": 1996,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 26,
+          "spd": 62,
+          "jmp": 59,
+          "endu": 25,
+          "ins": 48,
+          "dnk": 31,
+          "ft": 55,
+          "fg": 37,
+          "tp": 40,
+          "diq": 25,
+          "oiq": 42,
+          "drb": 39,
+          "pss": 25,
+          "reb": 32,
+          "ovr": 34,
+          "pot": 36
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Belmont",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 26
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 145,
+      "name": "Bol Bol",
+      "pos": "FC",
+      "hgt": 87,
+      "weight": 220,
+      "srID": "bolbo01",
+      "born": {
+        "year": 1999,
+        "loc": "Sudan"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 78,
+          "stre": 41,
+          "spd": 43,
+          "jmp": 67,
+          "endu": 30,
+          "ins": 58,
+          "dnk": 33,
+          "ft": 54,
+          "fg": 43,
+          "tp": 30,
+          "diq": 32,
+          "oiq": 43,
+          "drb": 40,
+          "pss": 25,
+          "reb": 48,
+          "ovr": 44,
+          "pot": 51
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Oregon",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 44
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 166,
+      "name": "Sekou Doumbouya",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "doumbse01",
+      "born": {
+        "year": 2000,
+        "loc": "Guinea"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 52,
+          "stre": 35,
+          "spd": 51,
+          "jmp": 56,
+          "endu": 26,
+          "ins": 45,
+          "dnk": 42,
+          "ft": 54,
+          "fg": 37,
+          "tp": 41,
+          "diq": 30,
+          "oiq": 36,
+          "drb": 40,
+          "pss": 25,
+          "reb": 29,
+          "ovr": 34,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 15
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 179,
+      "name": "Deividas Sirvydis",
+      "pos": "GF",
+      "hgt": 80,
+      "weight": 190,
+      "srID": "sirvyde01",
+      "born": {
+        "year": 2000,
+        "loc": "Lithuania"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 55,
+          "jmp": 61,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 34,
+          "fg": 25,
+          "tp": 31,
+          "diq": 25,
+          "oiq": 25,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 37
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 193,
+      "name": "Eric Paschall",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 255,
+      "srID": "pascher01",
+      "born": {
+        "year": 1996,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 70,
+          "spd": 29,
+          "jmp": 57,
+          "endu": 40,
+          "ins": 51,
+          "dnk": 52,
+          "ft": 66,
+          "fg": 54,
+          "tp": 30,
+          "diq": 25,
+          "oiq": 55,
+          "drb": 60,
+          "pss": 43,
+          "reb": 41,
+          "ovr": 41,
+          "pot": 48
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Fordham",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 41
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 195,
+      "name": "Jordan Poole",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 194,
+      "srID": "poolejo01",
+      "born": {
+        "year": 1999,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 37,
+          "stre": 1,
+          "spd": 68,
+          "jmp": 62,
+          "endu": 50,
+          "ins": 20,
+          "dnk": 20,
+          "ft": 46,
+          "fg": 32,
+          "tp": 68,
+          "diq": 32,
+          "oiq": 62,
+          "drb": 70,
+          "pss": 70,
+          "reb": 1,
+          "ovr": 50,
+          "pot": 62
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 28
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 196,
+      "name": "Alen Smailagić",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 215,
+      "srID": "smailal01",
+      "born": {
+        "year": 2000,
+        "loc": "Serbia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 59,
+          "stre": 33,
+          "spd": 49,
+          "jmp": 57,
+          "endu": 25,
+          "ins": 42,
+          "dnk": 25,
+          "ft": 42,
+          "fg": 29,
+          "tp": 29,
+          "diq": 25,
+          "oiq": 29,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 39
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 218,
+      "name": "Kevin Porter Jr.",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 203,
+      "srID": "porteke02",
+      "born": {
+        "year": 2000,
+        "loc": "Washington"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 0,
+          "spd": 64,
+          "jmp": 62,
+          "endu": 60,
+          "ins": 16,
+          "dnk": 22,
+          "ft": 33,
+          "fg": 26,
+          "tp": 57,
+          "diq": 39,
+          "oiq": 56,
+          "drb": 66,
+          "pss": 76,
+          "reb": 11,
+          "ovr": 50,
+          "pot": 68
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "USC",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 30
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 227,
+      "name": "Goga Bitadze",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 250,
+      "srID": "bitadgo01",
+      "born": {
+        "year": 1999,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 63,
+          "stre": 43,
+          "spd": 49,
+          "jmp": 70,
+          "endu": 28,
+          "ins": 61,
+          "dnk": 35,
+          "ft": 55,
+          "fg": 40,
+          "tp": 24,
+          "diq": 41,
+          "oiq": 51,
+          "drb": 40,
+          "pss": 34,
+          "reb": 60,
+          "ovr": 47,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 254,
+      "name": "Terance Mann",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 215,
+      "srID": "mannte01",
+      "born": {
+        "year": 1996,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 37,
+          "spd": 54,
+          "jmp": 59,
+          "endu": 41,
+          "ins": 47,
+          "dnk": 40,
+          "ft": 65,
+          "fg": 50,
+          "tp": 50,
+          "diq": 29,
+          "oiq": 57,
+          "drb": 64,
+          "pss": 48,
+          "reb": 41,
+          "ovr": 48,
+          "pot": 54
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Florida State",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 48
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 268,
+      "name": "Talen Horton-Tucker",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 234,
+      "srID": "hortota01",
+      "born": {
+        "year": 2000,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 37,
+          "stre": 61,
+          "spd": 32,
+          "jmp": 52,
+          "endu": 32,
+          "ins": 35,
+          "dnk": 32,
+          "ft": 63,
+          "fg": 50,
+          "tp": 36,
+          "diq": 26,
+          "oiq": 51,
+          "drb": 63,
+          "pss": 60,
+          "reb": 26,
+          "ovr": 37,
+          "pot": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Iowa State",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 46
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 280,
+      "name": "Brandon Clarke",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 215,
+      "srID": "clarkbr01",
+      "born": {
+        "year": 1996,
+        "loc": "British Columbia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 52,
+          "stre": 24,
+          "spd": 62,
+          "jmp": 67,
+          "endu": 34,
+          "ins": 53,
+          "dnk": 47,
+          "ft": 51,
+          "fg": 45,
+          "tp": 33,
+          "diq": 43,
+          "oiq": 58,
+          "drb": 58,
+          "pss": 31,
+          "reb": 43,
+          "ovr": 50,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "San Jose State",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 288,
+      "name": "Ja Morant",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 174,
+      "srID": "moranja01",
+      "born": {
+        "year": 1999,
+        "loc": "South Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 30,
+          "stre": 13,
+          "spd": 74,
+          "jmp": 59,
+          "endu": 64,
+          "ins": 38,
+          "dnk": 43,
+          "ft": 47,
+          "fg": 45,
+          "tp": 46,
+          "diq": 44,
+          "oiq": 66,
+          "drb": 71,
+          "pss": 87,
+          "reb": 24,
+          "ovr": 57,
+          "pot": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Murray State",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 303,
+      "name": "Tyler Herro",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 195,
+      "srID": "herroty01",
+      "born": {
+        "year": 2000,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 13,
+          "spd": 71,
+          "jmp": 64,
+          "endu": 69,
+          "ins": 29,
+          "dnk": 32,
+          "ft": 50,
+          "fg": 38,
+          "tp": 73,
+          "diq": 36,
+          "oiq": 64,
+          "drb": 72,
+          "pss": 75,
+          "reb": 26,
+          "ovr": 58,
+          "pot": 71
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kentucky",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 307,
+      "name": "KZ Okpala",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 215,
+      "srID": "okpalkz01",
+      "born": {
+        "year": 1999,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 52,
+          "stre": 27,
+          "spd": 55,
+          "jmp": 62,
+          "endu": 25,
+          "ins": 31,
+          "dnk": 26,
+          "ft": 45,
+          "fg": 28,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 32
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 330,
+      "name": "Jarrett Culver",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 195,
+      "srID": "culveja01",
+      "born": {
+        "year": 1999,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 63,
+          "endu": 33,
+          "ins": 33,
+          "dnk": 32,
+          "ft": 43,
+          "fg": 41,
+          "tp": 28,
+          "diq": 27,
+          "oiq": 37,
+          "drb": 56,
+          "pss": 33,
+          "reb": 28,
+          "ovr": 35,
+          "pot": 41
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas Tech",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 338,
+      "name": "Jaylen Nowell",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 201,
+      "srID": "nowelja01",
+      "born": {
+        "year": 1999,
+        "loc": "Washington"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 37,
+          "stre": 28,
+          "spd": 57,
+          "jmp": 55,
+          "endu": 27,
+          "ins": 43,
+          "dnk": 31,
+          "ft": 64,
+          "fg": 50,
+          "tp": 47,
+          "diq": 25,
+          "oiq": 53,
+          "drb": 63,
+          "pss": 48,
+          "reb": 25,
+          "ovr": 38,
+          "pot": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Washington",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 43
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 346,
+      "name": "Nickeil Alexander-Walker",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 205,
+      "srID": "alexani01",
+      "born": {
+        "year": 1998,
+        "loc": "Ontario"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 15,
+          "spd": 61,
+          "jmp": 60,
+          "endu": 50,
+          "ins": 26,
+          "dnk": 24,
+          "ft": 54,
+          "fg": 38,
+          "tp": 65,
+          "diq": 36,
+          "oiq": 58,
+          "drb": 68,
+          "pss": 57,
+          "reb": 13,
+          "ovr": 50,
+          "pot": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Virginia Tech",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 351,
+      "name": "Jaxson Hayes",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 220,
+      "srID": "hayesja02",
+      "born": {
+        "year": 2000,
+        "loc": "Oklahoma"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 67,
+          "stre": 41,
+          "spd": 42,
+          "jmp": 70,
+          "endu": 28,
+          "ins": 68,
+          "dnk": 44,
+          "ft": 63,
+          "fg": 47,
+          "tp": 35,
+          "diq": 27,
+          "oiq": 53,
+          "drb": 40,
+          "pss": 25,
+          "reb": 51,
+          "ovr": 43,
+          "pot": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 355,
+      "name": "Didi Louzada",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 188,
+      "srID": "louzama01",
+      "born": {
+        "year": 1999,
+        "loc": "Brazil"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 27,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 50,
+          "fg": 25,
+          "tp": 35,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 42,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 35
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 361,
+      "name": "Zion Williamson",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 284,
+      "srID": "willizi01",
+      "born": {
+        "year": 2000,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 55,
+          "spd": 32,
+          "jmp": 63,
+          "endu": 64,
+          "ins": 53,
+          "dnk": 52,
+          "ft": 44,
+          "fg": 45,
+          "tp": 37,
+          "diq": 49,
+          "oiq": 70,
+          "drb": 66,
+          "pss": 73,
+          "reb": 31,
+          "ovr": 58,
+          "pot": 67
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 362,
+      "name": "RJ Barrett",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 214,
+      "srID": "barrerj01",
+      "born": {
+        "year": 2000,
+        "loc": "Ontario"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 0,
+          "spd": 59,
+          "jmp": 64,
+          "endu": 66,
+          "ins": 16,
+          "dnk": 26,
+          "ft": 21,
+          "fg": 22,
+          "tp": 58,
+          "diq": 35,
+          "oiq": 60,
+          "drb": 71,
+          "pss": 69,
+          "reb": 11,
+          "ovr": 50,
+          "pot": 64
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 363,
+      "name": "Ignas Brazdeikis",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 221,
+      "srID": "brazdig01",
+      "born": {
+        "year": 1999,
+        "loc": "Lithuania"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 32,
+          "spd": 47,
+          "jmp": 48,
+          "endu": 25,
+          "ins": 30,
+          "dnk": 30,
+          "ft": 46,
+          "fg": 36,
+          "tp": 38,
+          "diq": 25,
+          "oiq": 37,
+          "drb": 42,
+          "pss": 25,
+          "reb": 30,
+          "ovr": 29,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 47
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 377,
+      "name": "Darius Bazley",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 216,
+      "srID": "bazleda01",
+      "born": {
+        "year": 2000,
+        "loc": "Massachusetts"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 56,
+          "stre": 26,
+          "spd": 58,
+          "jmp": 65,
+          "endu": 48,
+          "ins": 45,
+          "dnk": 48,
+          "ft": 60,
+          "fg": 52,
+          "tp": 34,
+          "diq": 29,
+          "oiq": 44,
+          "drb": 55,
+          "pss": 31,
+          "reb": 60,
+          "ovr": 44,
+          "pot": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 23
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 388,
+      "name": "Ty Jerome",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 195,
+      "srID": "jeromty01",
+      "born": {
+        "year": 1997,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 26,
+          "spd": 65,
+          "jmp": 62,
+          "endu": 31,
+          "ins": 47,
+          "dnk": 39,
+          "ft": 63,
+          "fg": 50,
+          "tp": 55,
+          "diq": 34,
+          "oiq": 54,
+          "drb": 63,
+          "pss": 62,
+          "reb": 25,
+          "ovr": 50,
+          "pot": 58
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Virginia",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 24
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 394,
+      "name": "Isaiah Roby",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 230,
+      "srID": "robyis01",
+      "born": {
+        "year": 1998,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 47,
+          "spd": 46,
+          "jmp": 59,
+          "endu": 32,
+          "ins": 44,
+          "dnk": 47,
+          "ft": 57,
+          "fg": 45,
+          "tp": 47,
+          "diq": 34,
+          "oiq": 48,
+          "drb": 51,
+          "pss": 36,
+          "reb": 45,
+          "ovr": 42,
+          "pot": 54
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Nebraska",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 45
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 400,
+      "name": "Jordan Bone",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 180,
+      "srID": "bonejo01",
+      "born": {
+        "year": 1997,
+        "loc": "Tennessee"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 35,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 30,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 32,
+          "drb": 46,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Tennessee",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 57
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 409,
+      "name": "Chuma Okeke",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 229,
+      "srID": "okekech01",
+      "born": {
+        "year": 1998,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 48,
+          "stre": 38,
+          "spd": 47,
+          "jmp": 59,
+          "endu": 35,
+          "ins": 35,
+          "dnk": 30,
+          "ft": 58,
+          "fg": 45,
+          "tp": 41,
+          "diq": 34,
+          "oiq": 47,
+          "drb": 55,
+          "pss": 39,
+          "reb": 43,
+          "ovr": 41,
+          "pot": 48
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Auburn",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 427,
+      "name": "Matisse Thybulle",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 202,
+      "srID": "thybuma01",
+      "born": {
+        "year": 1997,
+        "loc": "Arizona"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 30,
+          "spd": 61,
+          "jmp": 58,
+          "endu": 29,
+          "ins": 44,
+          "dnk": 26,
+          "ft": 44,
+          "fg": 40,
+          "tp": 53,
+          "diq": 48,
+          "oiq": 52,
+          "drb": 57,
+          "pss": 33,
+          "reb": 30,
+          "ovr": 46,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Washington",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 20
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 437,
+      "name": "Cameron Johnson",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "johnsca02",
+      "born": {
+        "year": 1996,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 52,
+          "stre": 1,
+          "spd": 60,
+          "jmp": 68,
+          "endu": 54,
+          "ins": 18,
+          "dnk": 16,
+          "ft": 32,
+          "fg": 22,
+          "tp": 68,
+          "diq": 36,
+          "oiq": 58,
+          "drb": 66,
+          "pss": 50,
+          "reb": 3,
+          "ovr": 50,
+          "pot": 64
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Pitt",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 456,
+      "name": "Nassir Little",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 220,
+      "srID": "littlna01",
+      "born": {
+        "year": 2000,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 33,
+          "spd": 50,
+          "jmp": 58,
+          "endu": 35,
+          "ins": 47,
+          "dnk": 33,
+          "ft": 59,
+          "fg": 45,
+          "tp": 40,
+          "diq": 28,
+          "oiq": 43,
+          "drb": 48,
+          "pss": 26,
+          "reb": 40,
+          "ovr": 35,
+          "pot": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UNC",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 25
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 466,
+      "name": "Kyle Guy",
+      "pos": "SG",
+      "hgt": 73,
+      "weight": 167,
+      "srID": "guyky01",
+      "born": {
+        "year": 1997,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 26,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 51,
+          "endu": 25,
+          "ins": 30,
+          "dnk": 25,
+          "ft": 45,
+          "fg": 27,
+          "tp": 28,
+          "diq": 25,
+          "oiq": 33,
+          "drb": 45,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 25,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Virginia",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 55
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 470,
+      "name": "Justin James",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 190,
+      "srID": "jamesju01",
+      "born": {
+        "year": 1997,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 60,
+          "endu": 25,
+          "ins": 29,
+          "dnk": 25,
+          "ft": 33,
+          "fg": 25,
+          "tp": 30,
+          "diq": 25,
+          "oiq": 30,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Wyoming",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 40
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 481,
+      "name": "Keldon Johnson",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 220,
+      "srID": "johnske04",
+      "born": {
+        "year": 1999,
+        "loc": "Virginia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 44,
+          "stre": 13,
+          "spd": 58,
+          "jmp": 64,
+          "endu": 57,
+          "ins": 37,
+          "dnk": 43,
+          "ft": 48,
+          "fg": 40,
+          "tp": 57,
+          "diq": 31,
+          "oiq": 61,
+          "drb": 68,
+          "pss": 47,
+          "reb": 30,
+          "ovr": 50,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kentucky",
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 29
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 487,
+      "name": "Luka Šamanić",
+      "pos": "F",
+      "hgt": 82,
+      "weight": 227,
+      "srID": "samanlu01",
+      "born": {
+        "year": 2000,
+        "loc": "Croatia"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 59,
+          "stre": 35,
+          "spd": 47,
+          "jmp": 57,
+          "endu": 26,
+          "ins": 32,
+          "dnk": 25,
+          "ft": 46,
+          "fg": 31,
+          "tp": 39,
+          "diq": 25,
+          "oiq": 37,
+          "drb": 45,
+          "pss": 41,
+          "reb": 28,
+          "ovr": 35,
+          "pot": 38
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "pick": 19
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 490,
+      "name": "Quinndary Weatherspoon",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 207,
+      "srID": "weathqu01",
+      "born": {
+        "year": 1996,
+        "loc": "Mississippi"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 33,
+          "stre": 43,
+          "spd": 47,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 31,
+          "dnk": 25,
+          "ft": 47,
+          "fg": 27,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 30,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 24,
+          "pot": 24
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Mississippi State",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 49
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 511,
+      "name": "Jarrell Brantley",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 250,
+      "srID": "brantja01",
+      "born": {
+        "year": 1996,
+        "loc": "South Carolina"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 59,
+          "spd": 25,
+          "jmp": 51,
+          "endu": 25,
+          "ins": 39,
+          "dnk": 27,
+          "ft": 50,
+          "fg": 31,
+          "tp": 43,
+          "diq": 25,
+          "oiq": 39,
+          "drb": 36,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "College of Charleston",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 50
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 524,
+      "name": "Miye Oni",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 206,
+      "srID": "onimi01",
+      "born": {
+        "year": 1997,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 2021,
+          "hgt": 41,
+          "stre": 29,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 25,
+          "ins": 29,
+          "dnk": 25,
+          "ft": 46,
+          "fg": 27,
+          "tp": 30,
+          "diq": 25,
+          "oiq": 29,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Yale",
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "pick": 58
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 2022
+      }
+    }
+  ]
+}

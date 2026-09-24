@@ -1,0 +1,1132 @@
+{
+  "startingSeason": 1964,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 0,
+      "name": "Ken Rohloff",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 195,
+      "srID": "rohloke01",
+      "born": {
+        "year": 1939,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 22,
+          "stre": 49,
+          "spd": 46,
+          "jmp": 44,
+          "endu": 25,
+          "ins": 27,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 27,
+          "diq": 25,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 21,
+          "pot": 21
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "NC State",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 1,
+      "name": "Gerry Ward",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "wardge01",
+      "born": {
+        "year": 1941,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 37,
+          "stre": 26,
+          "spd": 62,
+          "jmp": 58,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 43,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 32,
+          "diq": 25,
+          "drb": 47,
+          "pss": 28,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Boston College",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 2,
+      "name": "Larry Siegfried",
+      "pos": "PG",
+      "hgt": 75,
+      "weight": 190,
+      "srID": "siegfla01",
+      "born": {
+        "year": 1939,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 33,
+          "stre": 27,
+          "spd": 61,
+          "jmp": 53,
+          "endu": 30,
+          "ins": 27,
+          "dnk": 30,
+          "ft": 54,
+          "fg": 32,
+          "tp": 25,
+          "oiq": 39,
+          "diq": 31,
+          "drb": 52,
+          "pss": 38,
+          "reb": 25,
+          "ovr": 31,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 3,
+      "name": "Reggie Harding",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 249,
+      "srID": "hardire01",
+      "born": {
+        "year": 1942,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 67,
+          "stre": 44,
+          "spd": 45,
+          "jmp": 67,
+          "endu": 51,
+          "ins": 39,
+          "dnk": 43,
+          "ft": 55,
+          "fg": 54,
+          "tp": 25,
+          "oiq": 51,
+          "diq": 34,
+          "drb": 53,
+          "pss": 33,
+          "reb": 69,
+          "ovr": 50,
+          "pot": 58
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 4,
+      "name": "Eddie Miles",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "milesed01",
+      "born": {
+        "year": 1940,
+        "loc": "Arkansas"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 37,
+          "stre": 26,
+          "spd": 63,
+          "jmp": 58,
+          "endu": 33,
+          "ins": 29,
+          "dnk": 33,
+          "ft": 52,
+          "fg": 37,
+          "tp": 25,
+          "oiq": 39,
+          "diq": 29,
+          "drb": 53,
+          "pss": 31,
+          "reb": 25,
+          "ovr": 32,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Seattle University",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 5,
+      "name": "Gary Hill",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 185,
+      "srID": "hillga01",
+      "born": {
+        "year": 1941,
+        "loc": "United States"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 58,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 30,
+          "ft": 55,
+          "fg": 36,
+          "tp": 25,
+          "oiq": 43,
+          "diq": 31,
+          "drb": 64,
+          "pss": 38,
+          "reb": 25,
+          "ovr": 35,
+          "pot": 36
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Oklahoma City University",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 6,
+      "name": "Nate Thurmond",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 225,
+      "srID": "thurmna01",
+      "born": {
+        "year": 1941,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 63,
+          "stre": 37,
+          "spd": 52,
+          "jmp": 70,
+          "endu": 51,
+          "ins": 42,
+          "dnk": 38,
+          "ft": 54,
+          "fg": 47,
+          "tp": 25,
+          "oiq": 54,
+          "diq": 51,
+          "drb": 54,
+          "pss": 37,
+          "reb": 74,
+          "ovr": 55,
+          "pot": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Bowling Green",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 7,
+      "name": "John Windsor",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 215,
+      "srID": "windsjo01",
+      "born": {
+        "year": 1940,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 52,
+          "stre": 26,
+          "spd": 48,
+          "jmp": 48,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 27,
+          "ft": 48,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 33,
+          "diq": 25,
+          "drb": 35,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 8,
+      "name": "Mel Gibson",
+      "pos": "G",
+      "hgt": 75,
+      "weight": 180,
+      "srID": "gibsome01",
+      "born": {
+        "year": 1940,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 33,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 32,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 30,
+          "diq": 25,
+          "drb": 45,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Western Carolina University",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 9,
+      "name": "Jim King",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 175,
+      "srID": "kingji01",
+      "born": {
+        "year": 1941,
+        "loc": "Oklahoma"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 30,
+          "stre": 36,
+          "spd": 78,
+          "jmp": 64,
+          "endu": 42,
+          "ins": 38,
+          "dnk": 40,
+          "ft": 58,
+          "fg": 44,
+          "tp": 36,
+          "oiq": 54,
+          "diq": 40,
+          "drb": 64,
+          "pss": 52,
+          "reb": 38,
+          "ovr": 50,
+          "pot": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Tulsa",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 10,
+      "name": "Jerry Harkness",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 175,
+      "srID": "harknje01",
+      "born": {
+        "year": 1940,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 47,
+          "jmp": 47,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 25,
+          "fg": 28,
+          "tp": 25,
+          "oiq": 35,
+          "diq": 25,
+          "drb": 46,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 22,
+          "pot": 22
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Loyola Chicago",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 11,
+      "name": "Art Heyman",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 205,
+      "srID": "heymaar01",
+      "born": {
+        "year": 1941,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 41,
+          "stre": 27,
+          "spd": 64,
+          "jmp": 63,
+          "endu": 50,
+          "ins": 41,
+          "dnk": 62,
+          "ft": 67,
+          "fg": 58,
+          "tp": 25,
+          "oiq": 57,
+          "diq": 34,
+          "drb": 64,
+          "pss": 63,
+          "reb": 25,
+          "ovr": 50,
+          "pot": 54
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 12,
+      "name": "Tom Hoover",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 230,
+      "srID": "hooveto01",
+      "born": {
+        "year": 1941,
+        "loc": "District of Columbia"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 56,
+          "stre": 28,
+          "spd": 61,
+          "jmp": 70,
+          "endu": 26,
+          "ins": 37,
+          "dnk": 46,
+          "ft": 53,
+          "fg": 36,
+          "tp": 25,
+          "oiq": 47,
+          "diq": 29,
+          "drb": 43,
+          "pss": 25,
+          "reb": 40,
+          "ovr": 38,
+          "pot": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Villanova",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 13,
+      "name": "Jerry Greenspan",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 195,
+      "srID": "greenje01",
+      "born": {
+        "year": 1941,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 65,
+          "jmp": 60,
+          "endu": 25,
+          "ins": 27,
+          "dnk": 30,
+          "ft": 47,
+          "fg": 28,
+          "tp": 25,
+          "oiq": 34,
+          "diq": 25,
+          "drb": 42,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 29,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Maryland",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 14,
+      "name": "Jay Arnette",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 175,
+      "srID": "arnetja01",
+      "born": {
+        "year": 1938,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 69,
+          "jmp": 54,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 50,
+          "fg": 26,
+          "tp": 25,
+          "oiq": 36,
+          "diq": 25,
+          "drb": 49,
+          "pss": 28,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 15
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 15,
+      "name": "Jerry Lucas",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "lucasje01",
+      "born": {
+        "year": 1940,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 52,
+          "stre": 41,
+          "spd": 63,
+          "jmp": 71,
+          "endu": 71,
+          "ins": 63,
+          "dnk": 70,
+          "ft": 71,
+          "fg": 68,
+          "tp": 25,
+          "oiq": 62,
+          "diq": 51,
+          "drb": 68,
+          "pss": 58,
+          "reb": 80,
+          "ovr": 63,
+          "pot": 68
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 16,
+      "name": "Tom Thacker",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 170,
+      "srID": "thackto01",
+      "born": {
+        "year": 1939,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 54,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 32,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 33,
+          "diq": 25,
+          "drb": 47,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cincinnati",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 17,
+      "name": "Larry Comley",
+      "pos": "G",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "comlela01",
+      "born": {
+        "year": 1939,
+        "loc": "Kansas"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 41,
+          "stre": 36,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 37,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 32,
+          "diq": 25,
+          "drb": 48,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kansas State",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 18,
+      "name": "Gus Johnson",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 230,
+      "srID": "johnsgu01",
+      "born": {
+        "year": 1938,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 44,
+          "stre": 53,
+          "spd": 50,
+          "jmp": 64,
+          "endu": 67,
+          "ins": 43,
+          "dnk": 68,
+          "ft": 67,
+          "fg": 68,
+          "tp": 25,
+          "oiq": 61,
+          "diq": 42,
+          "drb": 67,
+          "pss": 51,
+          "reb": 78,
+          "ovr": 57,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Boise State",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 19
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 19,
+      "name": "Don Kojis",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 215,
+      "srID": "kojisdo01",
+      "born": {
+        "year": 1939,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 41,
+          "stre": 40,
+          "spd": 52,
+          "jmp": 57,
+          "endu": 32,
+          "ins": 30,
+          "dnk": 34,
+          "ft": 45,
+          "fg": 38,
+          "tp": 25,
+          "oiq": 42,
+          "diq": 31,
+          "drb": 44,
+          "pss": 29,
+          "reb": 32,
+          "ovr": 33,
+          "pot": 62
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Marquette",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 20
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 20,
+      "name": "Mel Peterson",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 185,
+      "srID": "peterme01",
+      "born": {
+        "year": 1938,
+        "loc": "Minnesota"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 37,
+          "stre": 28,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 50,
+          "dnk": 37,
+          "ft": 44,
+          "fg": 38,
+          "tp": 25,
+          "oiq": 39,
+          "diq": 28,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 27,
+          "pot": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Wheaton College",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 21,
+      "name": "Roger Strickland",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 200,
+      "srID": "stricro01",
+      "born": {
+        "year": 1940,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 44,
+          "fg": 25,
+          "tp": 25,
+          "oiq": 27,
+          "diq": 25,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 23,
+          "pot": 23
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Jacksonville University",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 22
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 22,
+      "name": "Rod Thorn",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 195,
+      "srID": "thornro01",
+      "born": {
+        "year": 1941,
+        "loc": "West Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1964,
+          "hgt": 37,
+          "stre": 18,
+          "spd": 68,
+          "jmp": 62,
+          "endu": 58,
+          "ins": 28,
+          "dnk": 46,
+          "ft": 60,
+          "fg": 50,
+          "tp": 26,
+          "oiq": 58,
+          "diq": 36,
+          "drb": 68,
+          "pss": 68,
+          "reb": 24,
+          "ovr": 50,
+          "pot": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "West Virginia",
+      "draft": {
+        "year": 1964,
+        "round": 1,
+        "pick": 23
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1966
+      }
+    }
+  ]
+}

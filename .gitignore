@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+.vite/
+# ETL 中间产物（体积大，不入库；如需重新生成跑 npm run etl:players）
+src/data/generated/*.json

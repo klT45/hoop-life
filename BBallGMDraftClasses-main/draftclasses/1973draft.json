@@ -1,0 +1,1181 @@
+{
+  "startingSeason": 1974,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 0,
+      "name": "John Brown",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 220,
+      "srID": "brownjo01",
+      "born": {
+        "year": 1951,
+        "loc": "Germany"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 48,
+          "stre": 32,
+          "spd": 58,
+          "jmp": 64,
+          "endu": 38,
+          "ins": 37,
+          "dnk": 49,
+          "ft": 68,
+          "fg": 46,
+          "tp": 25,
+          "diq": 26,
+          "oiq": 54,
+          "drb": 56,
+          "pss": 28,
+          "reb": 47,
+          "ovr": 41,
+          "pot": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Missouri",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 5,
+      "name": "Dwight Jones",
+      "pos": "F",
+      "hgt": 82,
+      "weight": 210,
+      "srID": "jonesdw01",
+      "born": {
+        "year": 1952,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 59,
+          "stre": 36,
+          "spd": 51,
+          "jmp": 70,
+          "endu": 40,
+          "ins": 37,
+          "dnk": 27,
+          "ft": 66,
+          "fg": 50,
+          "tp": 25,
+          "diq": 36,
+          "oiq": 55,
+          "drb": 49,
+          "pss": 30,
+          "reb": 68,
+          "ovr": 46,
+          "pot": 53
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Houston",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 17,
+      "name": "Steve Downing",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 225,
+      "srID": "downist01",
+      "born": {
+        "year": 1950,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 52,
+          "stre": 30,
+          "spd": 54,
+          "jmp": 59,
+          "endu": 25,
+          "ins": 29,
+          "dnk": 32,
+          "ft": 31,
+          "fg": 25,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 29,
+          "drb": 29,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Indiana",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 19,
+      "name": "Phil Hankinson",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 195,
+      "srID": "hankiph01",
+      "born": {
+        "year": 1951,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 56,
+          "jmp": 63,
+          "endu": 25,
+          "ins": 31,
+          "dnk": 36,
+          "ft": 46,
+          "fg": 30,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 37,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 31,
+          "pot": 32
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Penn",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 35
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 24,
+      "name": "Kevin Stacom",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 185,
+      "srID": "stacoke01",
+      "born": {
+        "year": 1951,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 33,
+          "stre": 26,
+          "spd": 64,
+          "jmp": 53,
+          "endu": 26,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 52,
+          "fg": 37,
+          "tp": 27,
+          "diq": 25,
+          "oiq": 43,
+          "drb": 55,
+          "pss": 35,
+          "reb": 25,
+          "ovr": 31,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Holy Cross",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 24
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 41,
+      "name": "Jim Brewer",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 210,
+      "srID": "breweji01",
+      "born": {
+        "year": 1951,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 56,
+          "stre": 25,
+          "spd": 62,
+          "jmp": 68,
+          "endu": 46,
+          "ins": 31,
+          "dnk": 43,
+          "ft": 44,
+          "fg": 42,
+          "tp": 25,
+          "diq": 47,
+          "oiq": 52,
+          "drb": 55,
+          "pss": 37,
+          "reb": 61,
+          "ovr": 51,
+          "pot": 63
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Minnesota",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 43,
+      "name": "Jim Chones",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 220,
+      "srID": "choneji01",
+      "born": {
+        "year": 1949,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 63,
+          "stre": 16,
+          "spd": 52,
+          "jmp": 68,
+          "endu": 54,
+          "ins": 22,
+          "dnk": 16,
+          "ft": 36,
+          "fg": 30,
+          "tp": 26,
+          "diq": 50,
+          "oiq": 58,
+          "drb": 54,
+          "pss": 32,
+          "reb": 44,
+          "ovr": 50,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Marquette",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 31
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 52,
+      "name": "Luke Witte",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 235,
+      "srID": "wittelu01",
+      "born": {
+        "year": 1950,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 67,
+          "stre": 43,
+          "spd": 43,
+          "jmp": 68,
+          "endu": 25,
+          "ins": 27,
+          "dnk": 25,
+          "ft": 41,
+          "fg": 25,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 33,
+          "drb": 33,
+          "pss": 25,
+          "reb": 30,
+          "ovr": 32,
+          "pot": 33
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "draft": {
+        "year": 1973,
+        "round": 4,
+        "pick": 57
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 71,
+      "name": "Derrek Dickey",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 218,
+      "srID": "dickede01",
+      "born": {
+        "year": 1951,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 48,
+          "stre": 30,
+          "spd": 59,
+          "jmp": 65,
+          "endu": 32,
+          "ins": 36,
+          "dnk": 39,
+          "ft": 55,
+          "fg": 42,
+          "tp": 25,
+          "diq": 27,
+          "oiq": 50,
+          "drb": 53,
+          "pss": 25,
+          "reb": 51,
+          "ovr": 37,
+          "pot": 41
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cincinnati",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 29
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 83,
+      "name": "Kevin Kunnert",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 230,
+      "srID": "kunneke01",
+      "born": {
+        "year": 1951,
+        "loc": "Iowa"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 67,
+          "stre": 46,
+          "spd": 46,
+          "jmp": 70,
+          "endu": 40,
+          "ins": 45,
+          "dnk": 33,
+          "ft": 54,
+          "fg": 48,
+          "tp": 24,
+          "diq": 38,
+          "oiq": 54,
+          "drb": 50,
+          "pss": 32,
+          "reb": 74,
+          "ovr": 50,
+          "pot": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Iowa",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 87,
+      "name": "Ed Ratleff",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 195,
+      "srID": "ratleed01",
+      "born": {
+        "year": 1950,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 44,
+          "stre": 18,
+          "spd": 70,
+          "jmp": 66,
+          "endu": 46,
+          "ins": 28,
+          "dnk": 36,
+          "ft": 58,
+          "fg": 42,
+          "tp": 26,
+          "diq": 42,
+          "oiq": 56,
+          "drb": 62,
+          "pss": 56,
+          "reb": 36,
+          "ovr": 50,
+          "pot": 58
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cal State Long Beach",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 104,
+      "name": "Kermit Washington",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "washike01",
+      "born": {
+        "year": 1951,
+        "loc": "District of Columbia"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 52,
+          "stre": 40,
+          "spd": 55,
+          "jmp": 67,
+          "endu": 45,
+          "ins": 50,
+          "dnk": 54,
+          "ft": 60,
+          "fg": 47,
+          "tp": 24,
+          "diq": 46,
+          "oiq": 52,
+          "drb": 53,
+          "pss": 26,
+          "reb": 65,
+          "ovr": 50,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "American University",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 121,
+      "name": "Dennis Bell",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 185,
+      "srID": "bellde01",
+      "born": {
+        "year": 1951,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 61,
+          "jmp": 57,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 26,
+          "ft": 33,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 31,
+          "drb": 35,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 26,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Drake University",
+      "draft": {
+        "year": 1973,
+        "round": 5,
+        "pick": 83
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 125,
+      "name": "Mel Davis",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 220,
+      "srID": "davisme01",
+      "born": {
+        "year": 1950,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 44,
+          "stre": 39,
+          "spd": 51,
+          "jmp": 59,
+          "endu": 27,
+          "ins": 25,
+          "dnk": 31,
+          "ft": 51,
+          "fg": 37,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 39,
+          "drb": 46,
+          "pss": 25,
+          "reb": 44,
+          "ovr": 31,
+          "pot": 33
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 141,
+      "name": "Leonard Gray",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 240,
+      "srID": "grayle01",
+      "born": {
+        "year": 1951,
+        "loc": "Kansas"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 52,
+          "stre": 36,
+          "spd": 48,
+          "jmp": 68,
+          "endu": 50,
+          "ins": 32,
+          "dnk": 46,
+          "ft": 58,
+          "fg": 50,
+          "tp": 26,
+          "diq": 36,
+          "oiq": 58,
+          "drb": 66,
+          "pss": 50,
+          "reb": 42,
+          "ovr": 50,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cal State Long Beach",
+      "draft": {
+        "year": 1973,
+        "round": 3,
+        "pick": 45
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 150,
+      "name": "Allan Bristow",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 210,
+      "srID": "bristal01",
+      "born": {
+        "year": 1951,
+        "loc": "Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 48,
+          "stre": 29,
+          "spd": 65,
+          "jmp": 65,
+          "endu": 37,
+          "ins": 39,
+          "dnk": 46,
+          "ft": 67,
+          "fg": 46,
+          "tp": 30,
+          "diq": 31,
+          "oiq": 57,
+          "drb": 59,
+          "pss": 58,
+          "reb": 45,
+          "ovr": 49,
+          "pot": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Virginia Tech",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 152,
+      "name": "Harvey Catchings",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 218,
+      "srID": "catchha01",
+      "born": {
+        "year": 1951,
+        "loc": "Mississippi"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 56,
+          "stre": 31,
+          "spd": 59,
+          "jmp": 65,
+          "endu": 29,
+          "ins": 40,
+          "dnk": 42,
+          "ft": 52,
+          "fg": 33,
+          "tp": 24,
+          "diq": 39,
+          "oiq": 43,
+          "drb": 37,
+          "pss": 25,
+          "reb": 59,
+          "ovr": 40,
+          "pot": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Hardin-Simmons University",
+      "draft": {
+        "year": 1973,
+        "round": 9,
+        "pick": 138
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 153,
+      "name": "Doug Collins",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 180,
+      "srID": "collido01",
+      "born": {
+        "year": 1951,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 44,
+          "stre": 13,
+          "spd": 78,
+          "jmp": 68,
+          "endu": 66,
+          "ins": 37,
+          "dnk": 51,
+          "ft": 56,
+          "fg": 48,
+          "tp": 24,
+          "diq": 40,
+          "oiq": 62,
+          "drb": 67,
+          "pss": 52,
+          "reb": 14,
+          "ovr": 55,
+          "pot": 65
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois State",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 163,
+      "name": "Mike Bantom",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 200,
+      "srID": "bantomi01",
+      "born": {
+        "year": 1951,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 56,
+          "stre": 0,
+          "spd": 62,
+          "jmp": 70,
+          "endu": 51,
+          "ins": 14,
+          "dnk": 30,
+          "ft": 33,
+          "fg": 25,
+          "tp": 26,
+          "diq": 48,
+          "oiq": 59,
+          "drb": 65,
+          "pss": 44,
+          "reb": 34,
+          "ovr": 50,
+          "pot": 62
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 165,
+      "name": "Nate Hawthorne",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 190,
+      "srID": "hawthna01",
+      "born": {
+        "year": 1950,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 58,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 42,
+          "fg": 29,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 34,
+          "drb": 42,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Southern Illinois",
+      "draft": {
+        "year": 1973,
+        "round": 7,
+        "pick": 118
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 166,
+      "name": "Gary Melchionni",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 185,
+      "srID": "melchga01",
+      "born": {
+        "year": 1951,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 62,
+          "jmp": 52,
+          "endu": 34,
+          "ins": 28,
+          "dnk": 27,
+          "ft": 68,
+          "fg": 47,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 54,
+          "drb": 67,
+          "pss": 45,
+          "reb": 25,
+          "ovr": 35,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 1973,
+        "round": 2,
+        "pick": 33
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 167,
+      "name": "Jim Owens",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 200,
+      "srID": "owensji01",
+      "born": {
+        "year": 1950,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 65,
+          "jmp": 60,
+          "endu": 25,
+          "ins": 32,
+          "dnk": 32,
+          "ft": 48,
+          "fg": 29,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 38,
+          "drb": 39,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Arizona State",
+      "draft": {
+        "year": 1973,
+        "round": 8,
+        "pick": 128
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 191,
+      "name": "Tom Kozelko",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 220,
+      "srID": "kozelto01",
+      "born": {
+        "year": 1951,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 52,
+          "stre": 30,
+          "spd": 60,
+          "jmp": 69,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 30,
+          "ft": 47,
+          "fg": 26,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 29,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Toledo",
+      "draft": {
+        "year": 1973,
+        "round": 3,
+        "pick": 48
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 197,
+      "name": "Nick Weatherspoon",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 195,
+      "srID": "weathni01",
+      "born": {
+        "year": 1950,
+        "loc": "Mississippi"
+      },
+      "ratings": [
+        {
+          "season": 1975,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 69,
+          "jmp": 68,
+          "endu": 38,
+          "ins": 35,
+          "dnk": 44,
+          "ft": 61,
+          "fg": 52,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 52,
+          "drb": 53,
+          "pss": 25,
+          "reb": 49,
+          "ovr": 44,
+          "pot": 48
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "draft": {
+        "year": 1973,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1976
+      }
+    }
+  ]
+}

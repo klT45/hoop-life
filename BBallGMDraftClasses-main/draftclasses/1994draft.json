@@ -1,0 +1,1867 @@
+{
+  "startingSeason": 1995,
+  "players": [
+    {
+      "tid": -2,
+      "pid": 21,
+      "name": "Charles Claxton",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 265,
+      "srID": "claxtch01",
+      "born": {
+        "year": 1970,
+        "loc": "U.S. Virgin Islands"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 67,
+          "stre": 50,
+          "spd": 45,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 39,
+          "dnk": 26,
+          "ft": 25,
+          "fg": 28,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 26,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Georgia",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 50
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 28,
+      "name": "Greg Minor",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 210,
+      "srID": "minorgr01",
+      "born": {
+        "year": 1971,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 44,
+          "stre": 31,
+          "spd": 60,
+          "jmp": 61,
+          "endu": 32,
+          "ins": 39,
+          "dnk": 40,
+          "ft": 67,
+          "fg": 50,
+          "tp": 27,
+          "diq": 25,
+          "oiq": 56,
+          "drb": 67,
+          "pss": 38,
+          "reb": 30,
+          "ovr": 41,
+          "pot": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Louisville",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 25
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 29,
+      "name": "Eric Montross",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 270,
+      "srID": "montrer01",
+      "born": {
+        "year": 1971,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 67,
+          "stre": 50,
+          "spd": 40,
+          "jmp": 67,
+          "endu": 36,
+          "ins": 46,
+          "dnk": 36,
+          "ft": 44,
+          "fg": 41,
+          "tp": 24,
+          "diq": 27,
+          "oiq": 41,
+          "drb": 36,
+          "pss": 25,
+          "reb": 58,
+          "ovr": 37,
+          "pot": 44
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UNC",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 39,
+      "name": "Yinka Dare",
+      "pos": "C",
+      "hgt": 84,
+      "weight": 265,
+      "srID": "dareyi01",
+      "born": {
+        "year": 1972,
+        "loc": "Nigeria"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 67,
+          "stre": 49,
+          "spd": 42,
+          "jmp": 64,
+          "endu": 25,
+          "ins": 29,
+          "dnk": 25,
+          "ft": 40,
+          "fg": 26,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 25,
+          "drb": 27,
+          "pss": 25,
+          "reb": 29,
+          "ovr": 30,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "George Washington",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 49,
+      "name": "Khalid Reeves",
+      "pos": "PG",
+      "hgt": 75,
+      "weight": 199,
+      "srID": "reevekh01",
+      "born": {
+        "year": 1972,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 33,
+          "stre": 34,
+          "spd": 56,
+          "jmp": 54,
+          "endu": 32,
+          "ins": 35,
+          "dnk": 34,
+          "ft": 61,
+          "fg": 45,
+          "tp": 54,
+          "diq": 28,
+          "oiq": 54,
+          "drb": 58,
+          "pss": 63,
+          "reb": 26,
+          "ovr": 42,
+          "pot": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Arizona",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 66,
+      "name": "Dickey Simpkins",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 248,
+      "srID": "simpkdi01",
+      "born": {
+        "year": 1972,
+        "loc": "Maryland"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 56,
+          "stre": 49,
+          "spd": 42,
+          "jmp": 64,
+          "endu": 36,
+          "ins": 37,
+          "dnk": 44,
+          "ft": 54,
+          "fg": 38,
+          "tp": 25,
+          "diq": 29,
+          "oiq": 46,
+          "drb": 46,
+          "pss": 29,
+          "reb": 50,
+          "ovr": 38,
+          "pot": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Providence",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 21
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 76,
+      "name": "Antonio Lang",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 205,
+      "srID": "langan02",
+      "born": {
+        "year": 1972,
+        "loc": "Alabama"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 33,
+          "spd": 51,
+          "jmp": 54,
+          "endu": 25,
+          "ins": 42,
+          "dnk": 37,
+          "ft": 48,
+          "fg": 34,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 30,
+          "pot": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 29
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 85,
+      "name": "Tony Dumas",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 190,
+      "srID": "dumasto01",
+      "born": {
+        "year": 1972,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 64,
+          "jmp": 62,
+          "endu": 29,
+          "ins": 33,
+          "dnk": 39,
+          "ft": 49,
+          "fg": 44,
+          "tp": 50,
+          "diq": 25,
+          "oiq": 45,
+          "drb": 58,
+          "pss": 33,
+          "reb": 25,
+          "ovr": 38,
+          "pot": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Missouri-Kansas City",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 19
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 90,
+      "name": "Jason Kidd",
+      "pos": "PG",
+      "hgt": 76,
+      "weight": 205,
+      "srID": "kiddja01",
+      "born": {
+        "year": 1973,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 37,
+          "stre": 23,
+          "spd": 61,
+          "jmp": 59,
+          "endu": 64,
+          "ins": 25,
+          "dnk": 36,
+          "ft": 52,
+          "fg": 45,
+          "tp": 62,
+          "diq": 65,
+          "oiq": 67,
+          "drb": 65,
+          "pss": 90,
+          "reb": 38,
+          "ovr": 63,
+          "pot": 71
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "California",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 109,
+      "name": "Jalen Rose",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "roseja01",
+      "born": {
+        "year": 1973,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 0,
+          "spd": 62,
+          "jmp": 68,
+          "endu": 58,
+          "ins": 0,
+          "dnk": 0,
+          "ft": 9,
+          "fg": 0,
+          "tp": 51,
+          "diq": 40,
+          "oiq": 64,
+          "drb": 62,
+          "pss": 68,
+          "reb": 0,
+          "ovr": 50,
+          "pot": 73
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 117,
+      "name": "Grant Hill",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 225,
+      "srID": "hillgr01",
+      "born": {
+        "year": 1972,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 61,
+          "jmp": 70,
+          "endu": 66,
+          "ins": 48,
+          "dnk": 48,
+          "ft": 55,
+          "fg": 50,
+          "tp": 41,
+          "diq": 56,
+          "oiq": 69,
+          "drb": 68,
+          "pss": 69,
+          "reb": 34,
+          "ovr": 63,
+          "pot": 77
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duke",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 137,
+      "name": "Donyell Marshall",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 218,
+      "srID": "marshdo01",
+      "born": {
+        "year": 1973,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 56,
+          "stre": 0,
+          "spd": 62,
+          "jmp": 68,
+          "endu": 52,
+          "ins": 0,
+          "dnk": 5,
+          "ft": 20,
+          "fg": 10,
+          "tp": 54,
+          "diq": 52,
+          "oiq": 56,
+          "drb": 63,
+          "pss": 34,
+          "reb": 23,
+          "ovr": 50,
+          "pot": 67
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UConn",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 139,
+      "name": "Clifford Rozier",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 245,
+      "srID": "roziecl01",
+      "born": {
+        "year": 1972,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 63,
+          "stre": 39,
+          "spd": 47,
+          "jmp": 66,
+          "endu": 26,
+          "ins": 43,
+          "dnk": 27,
+          "ft": 40,
+          "fg": 35,
+          "tp": 24,
+          "diq": 27,
+          "oiq": 39,
+          "drb": 37,
+          "pss": 25,
+          "reb": 58,
+          "ovr": 34,
+          "pot": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UNC",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 180,
+      "name": "Lamond Murray",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 236,
+      "srID": "murrala01",
+      "born": {
+        "year": 1973,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 48,
+          "stre": 34,
+          "spd": 47,
+          "jmp": 63,
+          "endu": 50,
+          "ins": 20,
+          "dnk": 34,
+          "ft": 48,
+          "fg": 40,
+          "tp": 60,
+          "diq": 40,
+          "oiq": 55,
+          "drb": 63,
+          "pss": 41,
+          "reb": 26,
+          "ovr": 50,
+          "pot": 62
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "California",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 182,
+      "name": "Eric Piatkowski",
+      "pos": "GF",
+      "hgt": 79,
+      "weight": 215,
+      "srID": "piatker01",
+      "born": {
+        "year": 1970,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 48,
+          "stre": 36,
+          "spd": 58,
+          "jmp": 62,
+          "endu": 34,
+          "ins": 35,
+          "dnk": 37,
+          "ft": 63,
+          "fg": 46,
+          "tp": 59,
+          "diq": 27,
+          "oiq": 51,
+          "drb": 58,
+          "pss": 27,
+          "reb": 30,
+          "ovr": 44,
+          "pot": 54
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Nebraska",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 15
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 195,
+      "name": "Eddie Jones",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 190,
+      "srID": "jonesed02",
+      "born": {
+        "year": 1971,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 44,
+          "stre": 0,
+          "spd": 72,
+          "jmp": 64,
+          "endu": 64,
+          "ins": 13,
+          "dnk": 24,
+          "ft": 37,
+          "fg": 26,
+          "tp": 67,
+          "diq": 61,
+          "oiq": 64,
+          "drb": 70,
+          "pss": 66,
+          "reb": 6,
+          "ovr": 60,
+          "pot": 78
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Temple",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 198,
+      "name": "Anthony Miller",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 225,
+      "srID": "millean01",
+      "born": {
+        "year": 1971,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 56,
+          "stre": 31,
+          "spd": 56,
+          "jmp": 64,
+          "endu": 25,
+          "ins": 32,
+          "dnk": 32,
+          "ft": 41,
+          "fg": 29,
+          "tp": 34,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 34,
+          "pss": 25,
+          "reb": 33,
+          "ovr": 32,
+          "pot": 34
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan State",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 39
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 215,
+      "name": "Eric Mobley",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 235,
+      "srID": "mobleer01",
+      "born": {
+        "year": 1970,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 63,
+          "stre": 37,
+          "spd": 45,
+          "jmp": 66,
+          "endu": 25,
+          "ins": 48,
+          "dnk": 28,
+          "ft": 37,
+          "fg": 34,
+          "tp": 48,
+          "diq": 25,
+          "oiq": 36,
+          "drb": 31,
+          "pss": 25,
+          "reb": 37,
+          "ovr": 35,
+          "pot": 36
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Pitt",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 228,
+      "name": "Voshon Lenard",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 205,
+      "srID": "lenarvo01",
+      "born": {
+        "year": 1973,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 37,
+          "stre": 36,
+          "spd": 59,
+          "jmp": 58,
+          "endu": 41,
+          "ins": 37,
+          "dnk": 30,
+          "ft": 64,
+          "fg": 53,
+          "tp": 63,
+          "diq": 33,
+          "oiq": 55,
+          "drb": 64,
+          "pss": 46,
+          "reb": 26,
+          "ovr": 48,
+          "pot": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Minnesota",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 46
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 248,
+      "name": "Glenn Robinson",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 225,
+      "srID": "robingl01",
+      "born": {
+        "year": 1973,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 48,
+          "stre": 18,
+          "spd": 58,
+          "jmp": 67,
+          "endu": 68,
+          "ins": 28,
+          "dnk": 40,
+          "ft": 43,
+          "fg": 38,
+          "tp": 50,
+          "diq": 48,
+          "oiq": 67,
+          "drb": 67,
+          "pss": 59,
+          "reb": 24,
+          "ovr": 58,
+          "pot": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Purdue",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 268,
+      "name": "Anthony Goldwire",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 182,
+      "srID": "goldwan01",
+      "born": {
+        "year": 1971,
+        "loc": "Florida"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 26,
+          "stre": 32,
+          "spd": 57,
+          "jmp": 45,
+          "endu": 34,
+          "ins": 27,
+          "dnk": 25,
+          "ft": 61,
+          "fg": 40,
+          "tp": 56,
+          "diq": 25,
+          "oiq": 50,
+          "drb": 58,
+          "pss": 58,
+          "reb": 25,
+          "ovr": 36,
+          "pot": 46
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Houston",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 52
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 269,
+      "name": "Darrin Hancock",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 205,
+      "srID": "hancoda01",
+      "born": {
+        "year": 1971,
+        "loc": "Alabama"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 57,
+          "jmp": 56,
+          "endu": 25,
+          "ins": 30,
+          "dnk": 31,
+          "ft": 38,
+          "fg": 27,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 32,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kansas",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 38
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 288,
+      "name": "Charlie Ward",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 190,
+      "srID": "wardch01",
+      "born": {
+        "year": 1970,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 30,
+          "stre": 36,
+          "spd": 59,
+          "jmp": 50,
+          "endu": 38,
+          "ins": 34,
+          "dnk": 25,
+          "ft": 63,
+          "fg": 43,
+          "tp": 59,
+          "diq": 50,
+          "oiq": 54,
+          "drb": 53,
+          "pss": 70,
+          "reb": 27,
+          "ovr": 50,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Florida State",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 26
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 290,
+      "name": "Monty Williams",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 225,
+      "srID": "willimo01",
+      "born": {
+        "year": 1971,
+        "loc": "Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 37,
+          "spd": 57,
+          "jmp": 66,
+          "endu": 30,
+          "ins": 39,
+          "dnk": 44,
+          "ft": 56,
+          "fg": 43,
+          "tp": 27,
+          "diq": 29,
+          "oiq": 49,
+          "drb": 51,
+          "pss": 31,
+          "reb": 30,
+          "ovr": 40,
+          "pot": 49
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Notre Dame",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 24
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 315,
+      "name": "Brooks Thompson",
+      "pos": "PG",
+      "hgt": 76,
+      "weight": 193,
+      "srID": "thompbr01",
+      "born": {
+        "year": 1970,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 37,
+          "stre": 28,
+          "spd": 64,
+          "jmp": 57,
+          "endu": 25,
+          "ins": 31,
+          "dnk": 25,
+          "ft": 48,
+          "fg": 38,
+          "tp": 53,
+          "diq": 25,
+          "oiq": 49,
+          "drb": 54,
+          "pss": 47,
+          "reb": 25,
+          "ovr": 37,
+          "pot": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas A&M",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 27
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 318,
+      "name": "Derrick Alston",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 225,
+      "srID": "alstode01",
+      "born": {
+        "year": 1972,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 63,
+          "stre": 34,
+          "spd": 46,
+          "jmp": 64,
+          "endu": 29,
+          "ins": 46,
+          "dnk": 28,
+          "ft": 39,
+          "fg": 38,
+          "tp": 24,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 39,
+          "pss": 25,
+          "reb": 40,
+          "ovr": 34,
+          "pot": 35
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duquesne",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 33
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 334,
+      "name": "Sharone Wright",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 260,
+      "srID": "wrighsh01",
+      "born": {
+        "year": 1973,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 63,
+          "stre": 44,
+          "spd": 49,
+          "jmp": 63,
+          "endu": 38,
+          "ins": 48,
+          "dnk": 41,
+          "ft": 55,
+          "fg": 48,
+          "tp": 26,
+          "diq": 32,
+          "oiq": 43,
+          "drb": 45,
+          "pss": 25,
+          "reb": 54,
+          "ovr": 42,
+          "pot": 46
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Clemson",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 345,
+      "name": "Wesley Person",
+      "pos": "GF",
+      "hgt": 78,
+      "weight": 195,
+      "srID": "persowe01",
+      "born": {
+        "year": 1971,
+        "loc": "Alabama"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 44,
+          "stre": 0,
+          "spd": 68,
+          "jmp": 64,
+          "endu": 53,
+          "ins": 4,
+          "dnk": 3,
+          "ft": 32,
+          "fg": 24,
+          "tp": 68,
+          "diq": 46,
+          "oiq": 58,
+          "drb": 68,
+          "pss": 42,
+          "reb": 1,
+          "ovr": 50,
+          "pot": 65
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Auburn",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 23
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 353,
+      "name": "Aaron McKie",
+      "pos": "SG",
+      "hgt": 77,
+      "weight": 209,
+      "srID": "mckieaa01",
+      "born": {
+        "year": 1972,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 41,
+          "stre": 26,
+          "spd": 56,
+          "jmp": 56,
+          "endu": 42,
+          "ins": 27,
+          "dnk": 27,
+          "ft": 53,
+          "fg": 39,
+          "tp": 51,
+          "diq": 44,
+          "oiq": 57,
+          "drb": 62,
+          "pss": 62,
+          "reb": 21,
+          "ovr": 50,
+          "pot": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Temple",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 361,
+      "name": "Dontonio Wingfield",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 256,
+      "srID": "wingfdo01",
+      "born": {
+        "year": 1974,
+        "loc": "Georgia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 57,
+          "spd": 34,
+          "jmp": 61,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 28,
+          "ft": 47,
+          "fg": 25,
+          "tp": 26,
+          "diq": 25,
+          "oiq": 30,
+          "drb": 36,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 29
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cincinnati",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 37
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 364,
+      "name": "Brian Grant",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 254,
+      "srID": "grantbr01",
+      "born": {
+        "year": 1972,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 56,
+          "stre": 36,
+          "spd": 44,
+          "jmp": 68,
+          "endu": 52,
+          "ins": 28,
+          "dnk": 36,
+          "ft": 44,
+          "fg": 34,
+          "tp": 26,
+          "diq": 48,
+          "oiq": 58,
+          "drb": 60,
+          "pss": 28,
+          "reb": 50,
+          "ovr": 50,
+          "pot": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Xavier",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 372,
+      "name": "Michael Smith",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "smithmi02",
+      "born": {
+        "year": 1972,
+        "loc": "District of Columbia"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 36,
+          "spd": 54,
+          "jmp": 66,
+          "endu": 41,
+          "ins": 48,
+          "dnk": 49,
+          "ft": 51,
+          "fg": 42,
+          "tp": 26,
+          "diq": 45,
+          "oiq": 58,
+          "drb": 50,
+          "pss": 38,
+          "reb": 59,
+          "ovr": 50,
+          "pot": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Providence",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 35
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 393,
+      "name": "Carlos Rogers",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 220,
+      "srID": "rogerca01",
+      "born": {
+        "year": 1971,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 63,
+          "stre": 41,
+          "spd": 50,
+          "jmp": 67,
+          "endu": 33,
+          "ins": 61,
+          "dnk": 40,
+          "ft": 52,
+          "fg": 51,
+          "tp": 41,
+          "diq": 32,
+          "oiq": 54,
+          "drb": 44,
+          "pss": 25,
+          "reb": 50,
+          "ovr": 47,
+          "pot": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Little Rock",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 399,
+      "name": "Howard Eisley",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 177,
+      "srID": "eisleho01",
+      "born": {
+        "year": 1972,
+        "loc": "Michigan"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 49,
+          "endu": 34,
+          "ins": 29,
+          "dnk": 26,
+          "ft": 65,
+          "fg": 46,
+          "tp": 54,
+          "diq": 29,
+          "oiq": 52,
+          "drb": 57,
+          "pss": 71,
+          "reb": 25,
+          "ovr": 42,
+          "pot": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Boston College",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 30
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 410,
+      "name": "Jamie Watson",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 190,
+      "srID": "watsoja01",
+      "born": {
+        "year": 1972,
+        "loc": "North Carolina"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 64,
+          "jmp": 61,
+          "endu": 25,
+          "ins": 26,
+          "dnk": 26,
+          "ft": 44,
+          "fg": 26,
+          "tp": 40,
+          "diq": 25,
+          "oiq": 31,
+          "drb": 33,
+          "pss": 26,
+          "reb": 25,
+          "ovr": 31,
+          "pot": 33
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "South Carolina",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 47
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 414,
+      "name": "Juwan Howard",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 240,
+      "srID": "howarju01",
+      "born": {
+        "year": 1973,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 56,
+          "stre": 27,
+          "spd": 52,
+          "jmp": 69,
+          "endu": 63,
+          "ins": 38,
+          "dnk": 45,
+          "ft": 52,
+          "fg": 45,
+          "tp": 30,
+          "diq": 44,
+          "oiq": 59,
+          "drb": 63,
+          "pss": 58,
+          "reb": 48,
+          "ovr": 56,
+          "pot": 68
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "draft": {
+        "year": 1994,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 418,
+      "name": "Jim McIlvaine",
+      "pos": "C",
+      "hgt": 85,
+      "weight": 240,
+      "srID": "mcilvji01",
+      "born": {
+        "year": 1972,
+        "loc": "Wisconsin"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 70,
+          "stre": 47,
+          "spd": 40,
+          "jmp": 70,
+          "endu": 25,
+          "ins": 36,
+          "dnk": 28,
+          "ft": 44,
+          "fg": 33,
+          "tp": 24,
+          "diq": 32,
+          "oiq": 34,
+          "drb": 31,
+          "pss": 25,
+          "reb": 34,
+          "ovr": 35,
+          "pot": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Marquette",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 32
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    },
+    {
+      "tid": -2,
+      "pid": 427,
+      "name": "Jeff Webster",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 232,
+      "srID": "webstje01",
+      "born": {
+        "year": 1971,
+        "loc": "Arkansas"
+      },
+      "ratings": [
+        {
+          "season": 1996,
+          "hgt": 52,
+          "stre": 40,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 28,
+          "ft": 44,
+          "fg": 25,
+          "tp": 32,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 35,
+          "pss": 25,
+          "reb": 25,
+          "ovr": 28,
+          "pot": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Oklahoma",
+      "draft": {
+        "year": 1994,
+        "round": 2,
+        "pick": 40
+      },
+      "contract": {
+        "amount": 1000,
+        "exp": 1997
+      }
+    }
+  ]
+}

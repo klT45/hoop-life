@@ -1,0 +1,4410 @@
+{
+  "version": 67,
+  "startingSeason": 1954,
+  "players": [
+    {
+      "tid": 0,
+      "pid": 0,
+      "name": "Irv Bemoras",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 185,
+      "srID": "bemorir01",
+      "born": {
+        "year": 1930,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 55,
+          "endu": 35,
+          "ins": 25,
+          "dnk": 42,
+          "ft": 63,
+          "fg": 52,
+          "tp": 25,
+          "diq": 31,
+          "oiq": 41,
+          "drb": 45,
+          "pss": 38,
+          "reb": 41
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "draft": {
+        "year": 1953,
+        "round": 3
+      },
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 1,
+      "name": "Bill Calhoun",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 180,
+      "srID": "calhobi01",
+      "born": {
+        "year": 1927,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 59,
+          "endu": 54,
+          "ins": 29,
+          "dnk": 46,
+          "ft": 68,
+          "fg": 51,
+          "tp": 25,
+          "diq": 39,
+          "oiq": 47,
+          "drb": 53,
+          "pss": 48,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "City College of San Francisco",
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 2,
+      "name": "Gene Dyker",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 225,
+      "srID": "dykerge01",
+      "born": {
+        "year": 1930,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 41,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 27,
+          "ft": 33,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 101
+      },
+      "college": "DePaul",
+      "draft": {
+        "year": 1953,
+        "round": 4
+      },
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 3,
+      "name": "Bob Harrison",
+      "pos": "SG",
+      "hgt": 73,
+      "weight": 190,
+      "srID": "harribo02",
+      "born": {
+        "year": 1927,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 39,
+          "spd": 57,
+          "jmp": 50,
+          "endu": 41,
+          "ins": 25,
+          "dnk": 32,
+          "ft": 57,
+          "fg": 51,
+          "tp": 25,
+          "diq": 37,
+          "oiq": 50,
+          "drb": 62,
+          "pss": 54,
+          "reb": 32
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Michigan",
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 4,
+      "name": "Lew Hitch",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 200,
+      "srID": "hitchle01",
+      "born": {
+        "year": 1929,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 29,
+          "spd": 64,
+          "jmp": 70,
+          "endu": 56,
+          "ins": 27,
+          "dnk": 50,
+          "ft": 63,
+          "fg": 54,
+          "tp": 25,
+          "diq": 40,
+          "oiq": 45,
+          "drb": 49,
+          "pss": 45,
+          "reb": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kansas State",
+      "draft": {
+        "year": 1951,
+        "round": 2,
+        "pick": 20
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 5,
+      "name": "Red Holzman",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 175,
+      "srID": "holzmre01",
+      "born": {
+        "year": 1920,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 15,
+          "stre": 42,
+          "spd": 43,
+          "jmp": 28,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 45,
+          "fg": 31,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 39,
+          "pss": 29,
+          "reb": 26
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "City College of New York",
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 6,
+      "name": "Bob Houbregs",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 225,
+      "srID": "houbrbo01",
+      "born": {
+        "year": 1932,
+        "loc": "British Columbia"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 30,
+          "spd": 60,
+          "jmp": 69,
+          "endu": 45,
+          "ins": 27,
+          "dnk": 51,
+          "ft": 69,
+          "fg": 54,
+          "tp": 25,
+          "diq": 32,
+          "oiq": 46,
+          "drb": 51,
+          "pss": 43,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Washington",
+      "draft": {
+        "year": 1953,
+        "round": 1,
+        "pick": 3
+      },
+      "contract": {
+        "amount": 54,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 7,
+      "name": "Bob Lavoy",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 185,
+      "srID": "lavoybo01",
+      "born": {
+        "year": 1926,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 68,
+          "jmp": 66,
+          "endu": 29,
+          "ins": 25,
+          "dnk": 36,
+          "ft": 68,
+          "fg": 47,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 45,
+          "drb": 42,
+          "pss": 36,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 8,
+      "name": "Don Lofgran",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 200,
+      "srID": "lofgrdo01",
+      "born": {
+        "year": 1929,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 56,
+          "jmp": 53,
+          "endu": 29,
+          "ins": 25,
+          "dnk": 31,
+          "ft": 53,
+          "fg": 38,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 46,
+          "pss": 29,
+          "reb": 33
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "San Francisco",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 12
+      },
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 9,
+      "name": "Jack Nichols",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 222,
+      "srID": "nichoja01",
+      "born": {
+        "year": 1926,
+        "loc": "Washington"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 37,
+          "spd": 53,
+          "jmp": 60,
+          "endu": 34,
+          "ins": 25,
+          "dnk": 38,
+          "ft": 67,
+          "fg": 49,
+          "tp": 25,
+          "diq": 33,
+          "oiq": 44,
+          "drb": 46,
+          "pss": 40,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Washington",
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 10,
+      "name": "Bob Peterson",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "peterbo01",
+      "born": {
+        "year": 1932,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 31,
+          "spd": 53,
+          "jmp": 54,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 29,
+          "ft": 44,
+          "fg": 27,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 108
+      },
+      "college": "Oregon",
+      "draft": {
+        "year": 1952,
+        "round": 11
+      },
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 11,
+      "name": "George Ratkovicz",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 220,
+      "srID": "ratkoge01",
+      "born": {
+        "year": 1922,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 47,
+          "spd": 53,
+          "jmp": 59,
+          "endu": 48,
+          "ins": 33,
+          "dnk": 48,
+          "ft": 63,
+          "fg": 55,
+          "tp": 25,
+          "diq": 45,
+          "oiq": 53,
+          "drb": 49,
+          "pss": 47,
+          "reb": 53
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 12,
+      "name": "Chuck Share",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 235,
+      "srID": "sharech01",
+      "born": {
+        "year": 1927,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 63,
+          "stre": 48,
+          "spd": 53,
+          "jmp": 70,
+          "endu": 38,
+          "ins": 48,
+          "dnk": 50,
+          "ft": 66,
+          "fg": 52,
+          "tp": 25,
+          "diq": 45,
+          "oiq": 53,
+          "drb": 44,
+          "pss": 39,
+          "reb": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Bowling Green",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 13,
+      "name": "Don Sunderlage",
+      "pos": "SG",
+      "hgt": 73,
+      "weight": 180,
+      "srID": "sundedo01",
+      "born": {
+        "year": 1929,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 25,
+          "spd": 65,
+          "jmp": 52,
+          "endu": 52,
+          "ins": 28,
+          "dnk": 48,
+          "ft": 68,
+          "fg": 53,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 43,
+          "drb": 52,
+          "pss": 48,
+          "reb": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 14,
+      "name": "Dick Surhoff",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 210,
+      "srID": "surhodi01",
+      "born": {
+        "year": 1929,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 37,
+          "stre": 39,
+          "spd": 53,
+          "jmp": 56,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 50,
+          "fg": 30,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 33,
+          "drb": 37,
+          "pss": 27,
+          "reb": 28
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Long Island University",
+      "draft": {
+        "year": 1952,
+        "round": 6
+      },
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 15,
+      "name": "Bill Tosheff",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 175,
+      "srID": "toshebi01",
+      "born": {
+        "year": 1926,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 54,
+          "endu": 44,
+          "ins": 25,
+          "dnk": 38,
+          "ft": 70,
+          "fg": 52,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 46,
+          "drb": 56,
+          "pss": 53,
+          "reb": 42
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Indiana",
+      "draft": {
+        "year": 1951,
+        "round": 4,
+        "pick": 33
+      },
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 16,
+      "name": "Isaac Walthour",
+      "pos": "PG",
+      "hgt": 71,
+      "weight": 163,
+      "srID": "walthis01",
+      "born": {
+        "year": 1930,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 19,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 47,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 108
+      },
+      "contract": {
+        "amount": 54,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 0,
+      "pid": 17,
+      "name": "Max Zaslofsky",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 170,
+      "srID": "zasloma01",
+      "born": {
+        "year": 1925,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 57,
+          "endu": 45,
+          "ins": 30,
+          "dnk": 47,
+          "ft": 68,
+          "fg": 58,
+          "tp": 25,
+          "diq": 38,
+          "oiq": 52,
+          "drb": 57,
+          "pss": 47,
+          "reb": 37
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 18,
+      "name": "Don Barksdale",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 200,
+      "srID": "barksdo01",
+      "born": {
+        "year": 1923,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 28,
+          "spd": 66,
+          "jmp": 61,
+          "endu": 32,
+          "ins": 26,
+          "dnk": 43,
+          "ft": 66,
+          "fg": 54,
+          "tp": 25,
+          "diq": 42,
+          "oiq": 53,
+          "drb": 50,
+          "pss": 45,
+          "reb": 51
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "UCLA",
+      "contract": {
+        "amount": 65,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 19,
+      "name": "Ernie Barrett",
+      "pos": "SG",
+      "hgt": 75,
+      "weight": 180,
+      "srID": "barreer01",
+      "born": {
+        "year": 1929,
+        "loc": "Kansas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 57,
+          "endu": 26,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 44,
+          "fg": 35,
+          "tp": 25,
+          "diq": 26,
+          "oiq": 29,
+          "drb": 42,
+          "pss": 33,
+          "reb": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kansas State",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 59,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 20,
+      "name": "Bob Brannum",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 215,
+      "srID": "brannbo01",
+      "born": {
+        "year": 1926,
+        "loc": "Kansas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 40,
+          "spd": 51,
+          "jmp": 56,
+          "endu": 36,
+          "ins": 25,
+          "dnk": 43,
+          "ft": 57,
+          "fg": 45,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 42,
+          "drb": 45,
+          "pss": 41,
+          "reb": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kentucky",
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 21,
+      "name": "Chuck Cooper",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "coopech01",
+      "born": {
+        "year": 1926,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 39,
+          "spd": 56,
+          "jmp": 58,
+          "endu": 30,
+          "ins": 25,
+          "dnk": 37,
+          "ft": 66,
+          "fg": 46,
+          "tp": 25,
+          "diq": 34,
+          "oiq": 43,
+          "drb": 47,
+          "pss": 41,
+          "reb": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Duquesne",
+      "draft": {
+        "year": 1950,
+        "round": 2,
+        "pick": 13
+      },
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 22,
+      "name": "Bob Cousy",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 175,
+      "srID": "cousybo01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 28,
+          "spd": 81,
+          "jmp": 62,
+          "endu": 72,
+          "ins": 49,
+          "dnk": 72,
+          "ft": 82,
+          "fg": 69,
+          "tp": 28,
+          "diq": 48,
+          "oiq": 63,
+          "drb": 66,
+          "pss": 72,
+          "reb": 48
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Holy Cross",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 23,
+      "name": "Bob Donham",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 190,
+      "srID": "donhabo01",
+      "born": {
+        "year": 1926,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 35,
+          "spd": 58,
+          "jmp": 51,
+          "endu": 35,
+          "ins": 36,
+          "dnk": 37,
+          "ft": 54,
+          "fg": 54,
+          "tp": 25,
+          "diq": 34,
+          "oiq": 51,
+          "drb": 53,
+          "pss": 50,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "draft": {
+        "year": 1950,
+        "round": 3,
+        "pick": 25
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 24,
+      "name": "Bob Harris",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 195,
+      "srID": "harribo01",
+      "born": {
+        "year": 1927,
+        "loc": "Tennessee"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 67,
+          "endu": 42,
+          "ins": 25,
+          "dnk": 38,
+          "ft": 59,
+          "fg": 50,
+          "tp": 25,
+          "diq": 36,
+          "oiq": 44,
+          "drb": 45,
+          "pss": 39,
+          "reb": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Oklahoma State",
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 25,
+      "name": "Ed Macauley",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 185,
+      "srID": "macaued01",
+      "born": {
+        "year": 1928,
+        "loc": "Missouri"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 36,
+          "spd": 67,
+          "jmp": 78,
+          "endu": 70,
+          "ins": 77,
+          "dnk": 85,
+          "ft": 78,
+          "fg": 71,
+          "tp": 27,
+          "diq": 46,
+          "oiq": 63,
+          "drb": 49,
+          "pss": 61,
+          "reb": 56
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Louis",
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 26,
+      "name": "Ed Mikan",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 230,
+      "srID": "mikaned01",
+      "born": {
+        "year": 1925,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 39,
+          "spd": 56,
+          "jmp": 65,
+          "endu": 32,
+          "ins": 28,
+          "dnk": 41,
+          "ft": 57,
+          "fg": 40,
+          "tp": 25,
+          "diq": 29,
+          "oiq": 45,
+          "drb": 43,
+          "pss": 30,
+          "reb": 36
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 103
+      },
+      "college": "DePaul",
+      "contract": {
+        "amount": 57,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 1,
+      "pid": 27,
+      "name": "Bill Sharman",
+      "pos": "SG",
+      "hgt": 73,
+      "weight": 175,
+      "srID": "sharmbi01",
+      "born": {
+        "year": 1926,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 58,
+          "endu": 59,
+          "ins": 49,
+          "dnk": 66,
+          "ft": 70,
+          "fg": 66,
+          "tp": 25,
+          "diq": 46,
+          "oiq": 60,
+          "drb": 57,
+          "pss": 55,
+          "reb": 44
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "USC",
+      "draft": {
+        "year": 1950,
+        "round": 2,
+        "pick": 17
+      },
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 28,
+      "name": "Leo Barnhorst",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 190,
+      "srID": "barnhle01",
+      "born": {
+        "year": 1924,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 37,
+          "stre": 26,
+          "spd": 69,
+          "jmp": 59,
+          "endu": 46,
+          "ins": 25,
+          "dnk": 33,
+          "ft": 70,
+          "fg": 50,
+          "tp": 25,
+          "diq": 39,
+          "oiq": 54,
+          "drb": 69,
+          "pss": 72,
+          "reb": 37
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 95
+      },
+      "college": "Notre Dame",
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 29,
+      "name": "Frankie Brian",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 180,
+      "srID": "brianfr01",
+      "born": {
+        "year": 1923,
+        "loc": "Louisiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 33,
+          "spd": 60,
+          "jmp": 46,
+          "endu": 29,
+          "ins": 26,
+          "dnk": 33,
+          "ft": 70,
+          "fg": 53,
+          "tp": 25,
+          "diq": 38,
+          "oiq": 52,
+          "drb": 53,
+          "pss": 43,
+          "reb": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "LSU",
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 30,
+      "name": "Larry Foust",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 215,
+      "srID": "foustla01",
+      "born": {
+        "year": 1928,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 56,
+          "stre": 37,
+          "spd": 65,
+          "jmp": 70,
+          "endu": 64,
+          "ins": 63,
+          "dnk": 70,
+          "ft": 70,
+          "fg": 63,
+          "tp": 25,
+          "diq": 51,
+          "oiq": 54,
+          "drb": 44,
+          "pss": 47,
+          "reb": 67
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "La Salle",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 31,
+      "name": "Mel Hutchins",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 200,
+      "srID": "hutchme01",
+      "born": {
+        "year": 1928,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 69,
+          "endu": 70,
+          "ins": 31,
+          "dnk": 55,
+          "ft": 67,
+          "fg": 60,
+          "tp": 25,
+          "diq": 50,
+          "oiq": 49,
+          "drb": 52,
+          "pss": 53,
+          "reb": 60
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "BYU",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 59,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 32,
+      "name": "Monk Meineke",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 208,
+      "srID": "meinemo01",
+      "born": {
+        "year": 1930,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 66,
+          "endu": 35,
+          "ins": 25,
+          "dnk": 39,
+          "ft": 69,
+          "fg": 49,
+          "tp": 25,
+          "diq": 32,
+          "oiq": 41,
+          "drb": 45,
+          "pss": 40,
+          "reb": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Dayton",
+      "draft": {
+        "year": 1952,
+        "round": 2
+      },
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 33,
+      "name": "Jack Molinas",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 200,
+      "srID": "molinja01",
+      "born": {
+        "year": 1931,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 68,
+          "endu": 53,
+          "ins": 38,
+          "dnk": 68,
+          "ft": 70,
+          "fg": 60,
+          "tp": 25,
+          "diq": 36,
+          "oiq": 56,
+          "drb": 56,
+          "pss": 36,
+          "reb": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Columbia University",
+      "draft": {
+        "year": 1953,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 34,
+      "name": "Ken Murray",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 190,
+      "srID": "murrake01",
+      "born": {
+        "year": 1928,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 33,
+          "spd": 58,
+          "jmp": 52,
+          "endu": 27,
+          "ins": 25,
+          "dnk": 27,
+          "ft": 53,
+          "fg": 35,
+          "tp": 25,
+          "diq": 26,
+          "oiq": 32,
+          "drb": 43,
+          "pss": 36,
+          "reb": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. Bonaventure",
+      "draft": {
+        "year": 1950,
+        "round": 4,
+        "pick": 42
+      },
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 35,
+      "name": "Andy Phillip",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 195,
+      "srID": "phillan01",
+      "born": {
+        "year": 1922,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 44,
+          "spd": 60,
+          "jmp": 53,
+          "endu": 61,
+          "ins": 32,
+          "dnk": 44,
+          "ft": 70,
+          "fg": 57,
+          "tp": 25,
+          "diq": 54,
+          "oiq": 60,
+          "drb": 62,
+          "pss": 69,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 36,
+      "name": "Fred Schaus",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 205,
+      "srID": "schaufr01",
+      "born": {
+        "year": 1925,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 32,
+          "spd": 61,
+          "jmp": 60,
+          "endu": 41,
+          "ins": 27,
+          "dnk": 49,
+          "ft": 69,
+          "fg": 52,
+          "tp": 25,
+          "diq": 37,
+          "oiq": 50,
+          "drb": 52,
+          "pss": 47,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "West Virginia",
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 37,
+      "name": "Fred Scolari",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 180,
+      "srID": "scolafr01",
+      "born": {
+        "year": 1922,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 15,
+          "stre": 50,
+          "spd": 48,
+          "jmp": 36,
+          "endu": 37,
+          "ins": 25,
+          "dnk": 31,
+          "ft": 70,
+          "fg": 51,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 50,
+          "drb": 55,
+          "pss": 47,
+          "reb": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "San Francisco",
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 38,
+      "name": "Zeke Sinicola",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 165,
+      "srID": "sinicze01",
+      "born": {
+        "year": 1929,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 15,
+          "stre": 26,
+          "spd": 50,
+          "jmp": 43,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 29,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 103
+      },
+      "college": "Niagara University",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 4
+      },
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 2,
+      "pid": 39,
+      "name": "George Yardley",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 190,
+      "srID": "yardlge01",
+      "born": {
+        "year": 1928,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 26,
+          "spd": 70,
+          "jmp": 67,
+          "endu": 47,
+          "ins": 39,
+          "dnk": 58,
+          "ft": 70,
+          "fg": 60,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 52,
+          "drb": 51,
+          "pss": 44,
+          "reb": 55
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 8
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 40,
+      "name": "Ernie Beck",
+      "pos": "SG",
+      "hgt": 76,
+      "weight": 190,
+      "srID": "becker01",
+      "born": {
+        "year": 1931,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 37,
+          "stre": 25,
+          "spd": 64,
+          "jmp": 57,
+          "endu": 34,
+          "ins": 25,
+          "dnk": 31,
+          "ft": 54,
+          "fg": 37,
+          "tp": 25,
+          "diq": 30,
+          "oiq": 48,
+          "drb": 59,
+          "pss": 44,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 97
+      },
+      "college": "Penn",
+      "draft": {
+        "year": 1953,
+        "round": 1,
+        "pick": 1
+      },
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 41,
+      "name": "Walt Davis",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 205,
+      "srID": "daviswa01",
+      "born": {
+        "year": 1931,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 58,
+          "jmp": 67,
+          "endu": 35,
+          "ins": 25,
+          "dnk": 37,
+          "ft": 58,
+          "fg": 48,
+          "tp": 25,
+          "diq": 29,
+          "oiq": 38,
+          "drb": 43,
+          "pss": 36,
+          "reb": 46
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas A&M",
+      "draft": {
+        "year": 1952,
+        "round": 2
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 42,
+      "name": "Danny Finn",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 185,
+      "srID": "finnda01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 33,
+          "spd": 62,
+          "jmp": 52,
+          "endu": 39,
+          "ins": 25,
+          "dnk": 37,
+          "ft": 62,
+          "fg": 52,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 45,
+          "drb": 56,
+          "pss": 60,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 43,
+      "name": "Joe Fulks",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 190,
+      "srID": "fulksjo01",
+      "born": {
+        "year": 1921,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 64,
+          "jmp": 53,
+          "endu": 29,
+          "ins": 26,
+          "dnk": 30,
+          "ft": 46,
+          "fg": 37,
+          "tp": 25,
+          "diq": 29,
+          "oiq": 35,
+          "drb": 41,
+          "pss": 31,
+          "reb": 34
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Millsaps College",
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 44,
+      "name": "Jack George",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 190,
+      "srID": "georgja01",
+      "born": {
+        "year": 1928,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 32,
+          "spd": 62,
+          "jmp": 55,
+          "endu": 62,
+          "ins": 25,
+          "dnk": 38,
+          "ft": 59,
+          "fg": 55,
+          "tp": 25,
+          "diq": 38,
+          "oiq": 46,
+          "drb": 57,
+          "pss": 61,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "La Salle",
+      "draft": {
+        "year": 1953,
+        "round": 13
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 45,
+      "name": "Joe Graboski",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 195,
+      "srID": "grabojo01",
+      "born": {
+        "year": 1930,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 70,
+          "endu": 66,
+          "ins": 32,
+          "dnk": 63,
+          "ft": 67,
+          "fg": 60,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 46,
+          "drb": 50,
+          "pss": 48,
+          "reb": 58
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 46,
+      "name": "Norm Grekin",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 180,
+      "srID": "grekino01",
+      "born": {
+        "year": 1930,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 28,
+          "dnk": 28,
+          "ft": 44,
+          "fg": 40,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 35,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 111
+      },
+      "college": "La Salle",
+      "draft": {
+        "year": 1953,
+        "round": 3
+      },
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 47,
+      "name": "Neil Johnston",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "johnsne01",
+      "born": {
+        "year": 1929,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 38,
+          "spd": 68,
+          "jmp": 80,
+          "endu": 82,
+          "ins": 80,
+          "dnk": 87,
+          "ft": 80,
+          "fg": 74,
+          "tp": 28,
+          "diq": 51,
+          "oiq": 64,
+          "drb": 48,
+          "pss": 52,
+          "reb": 64
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "contract": {
+        "amount": 56,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 48,
+      "name": "Jim Phelan",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 175,
+      "srID": "phelaja02",
+      "born": {
+        "year": 1929,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 27,
+          "dnk": 25,
+          "ft": 33,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 27,
+          "drb": 38,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 108
+      },
+      "college": "La Salle",
+      "draft": {
+        "year": 1951,
+        "round": 8,
+        "pick": 78
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 49,
+      "name": "George Senesky",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 179,
+      "srID": "senesge01",
+      "born": {
+        "year": 1922,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 27,
+          "spd": 63,
+          "jmp": 47,
+          "endu": 32,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 44,
+          "fg": 38,
+          "tp": 25,
+          "diq": 30,
+          "oiq": 39,
+          "drb": 44,
+          "pss": 38,
+          "reb": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Saint Joseph's",
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 50,
+      "name": "Paul Walther",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 160,
+      "srID": "walthpa01",
+      "born": {
+        "year": 1927,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 66,
+          "jmp": 56,
+          "endu": 48,
+          "ins": 25,
+          "dnk": 33,
+          "ft": 61,
+          "fg": 45,
+          "tp": 25,
+          "diq": 34,
+          "oiq": 45,
+          "drb": 51,
+          "pss": 49,
+          "reb": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Tennessee",
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 3,
+      "pid": 51,
+      "name": "Zeke Zawoluk",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 215,
+      "srID": "zawolze01",
+      "born": {
+        "year": 1930,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 28,
+          "spd": 64,
+          "jmp": 69,
+          "endu": 42,
+          "ins": 25,
+          "dnk": 50,
+          "ft": 69,
+          "fg": 54,
+          "tp": 25,
+          "diq": 36,
+          "oiq": 46,
+          "drb": 47,
+          "pss": 40,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "draft": {
+        "year": 1952,
+        "round": 2
+      },
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 52,
+      "name": "Jim Fritsche",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 210,
+      "srID": "fritsji01",
+      "born": {
+        "year": 1931,
+        "loc": "Minnesota"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 25,
+          "spd": 60,
+          "jmp": 69,
+          "endu": 31,
+          "ins": 25,
+          "dnk": 39,
+          "ft": 70,
+          "fg": 45,
+          "tp": 25,
+          "diq": 30,
+          "oiq": 36,
+          "drb": 44,
+          "pss": 39,
+          "reb": 42
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Hamline University",
+      "draft": {
+        "year": 1953,
+        "round": 1,
+        "pick": 9
+      },
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 53,
+      "name": "Jim Holstein",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 180,
+      "srID": "holstji01",
+      "born": {
+        "year": 1930,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 57,
+          "endu": 30,
+          "ins": 25,
+          "dnk": 34,
+          "ft": 56,
+          "fg": 46,
+          "tp": 25,
+          "diq": 33,
+          "oiq": 37,
+          "drb": 45,
+          "pss": 40,
+          "reb": 42
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Cincinnati",
+      "draft": {
+        "year": 1952,
+        "round": 2
+      },
+      "contract": {
+        "amount": 65,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 54,
+      "name": "Clyde Lovellette",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 234,
+      "srID": "lovelcl01",
+      "born": {
+        "year": 1929,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 56,
+          "stre": 42,
+          "spd": 58,
+          "jmp": 70,
+          "endu": 34,
+          "ins": 41,
+          "dnk": 56,
+          "ft": 68,
+          "fg": 60,
+          "tp": 25,
+          "diq": 45,
+          "oiq": 48,
+          "drb": 40,
+          "pss": 41,
+          "reb": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Kansas",
+      "draft": {
+        "year": 1952,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 55,
+      "name": "Slater Martin",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 170,
+      "srID": "martisl01",
+      "born": {
+        "year": 1925,
+        "loc": "Texas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 15,
+          "stre": 34,
+          "spd": 60,
+          "jmp": 42,
+          "endu": 58,
+          "ins": 26,
+          "dnk": 36,
+          "ft": 68,
+          "fg": 56,
+          "tp": 25,
+          "diq": 50,
+          "oiq": 51,
+          "drb": 56,
+          "pss": 57,
+          "reb": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Texas",
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 56,
+      "name": "George Mikan",
+      "pos": "C",
+      "hgt": 82,
+      "weight": 245,
+      "srID": "mikange01",
+      "born": {
+        "year": 1924,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 59,
+          "stre": 56,
+          "spd": 57,
+          "jmp": 81,
+          "endu": 59,
+          "ins": 61,
+          "dnk": 85,
+          "ft": 82,
+          "fg": 68,
+          "tp": 28,
+          "diq": 55,
+          "oiq": 61,
+          "drb": 46,
+          "pss": 49,
+          "reb": 67
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "DePaul",
+      "contract": {
+        "amount": 67,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 57,
+      "name": "Vern Mikkelsen",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 230,
+      "srID": "mikkeve01",
+      "born": {
+        "year": 1928,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 45,
+          "spd": 55,
+          "jmp": 68,
+          "endu": 54,
+          "ins": 33,
+          "dnk": 64,
+          "ft": 70,
+          "fg": 60,
+          "tp": 25,
+          "diq": 51,
+          "oiq": 46,
+          "drb": 50,
+          "pss": 46,
+          "reb": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Hamline University",
+      "contract": {
+        "amount": 57,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 58,
+      "name": "Jim Pollard",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 185,
+      "srID": "pollaji01",
+      "born": {
+        "year": 1922,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 37,
+          "stre": 27,
+          "spd": 74,
+          "jmp": 61,
+          "endu": 58,
+          "ins": 30,
+          "dnk": 47,
+          "ft": 77,
+          "fg": 60,
+          "tp": 27,
+          "diq": 55,
+          "oiq": 56,
+          "drb": 54,
+          "pss": 54,
+          "reb": 53
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Stanford",
+      "contract": {
+        "amount": 57,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 59,
+      "name": "Pep Saul",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 185,
+      "srID": "saulpe01",
+      "born": {
+        "year": 1924,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 31,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 40,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 70,
+          "fg": 52,
+          "tp": 25,
+          "diq": 42,
+          "oiq": 47,
+          "drb": 54,
+          "pss": 46,
+          "reb": 42
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Seton Hall",
+      "contract": {
+        "amount": 54,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 60,
+      "name": "Dick Schnittker",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 200,
+      "srID": "schnidi01",
+      "born": {
+        "year": 1928,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 25,
+          "spd": 62,
+          "jmp": 57,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 47,
+          "fg": 37,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 34,
+          "drb": 36,
+          "pss": 28,
+          "reb": 30
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Ohio State",
+      "draft": {
+        "year": 1950,
+        "round": 1,
+        "pick": 5
+      },
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 4,
+      "pid": 61,
+      "name": "Whitey Skoog",
+      "pos": "SG",
+      "hgt": 71,
+      "weight": 180,
+      "srID": "skoogwh01",
+      "born": {
+        "year": 1926,
+        "loc": "Minnesota"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 19,
+          "stre": 38,
+          "spd": 55,
+          "jmp": 43,
+          "endu": 42,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 67,
+          "fg": 53,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 45,
+          "drb": 51,
+          "pss": 46,
+          "reb": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Minnesota",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 10
+      },
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 62,
+      "name": "Don Ackerman",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 183,
+      "srID": "ackerdo01",
+      "born": {
+        "year": 1930,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 22,
+          "stre": 33,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 37,
+          "fg": 27,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 26,
+          "drb": 38,
+          "pss": 27,
+          "reb": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Long Island University",
+      "draft": {
+        "year": 1953,
+        "round": 2,
+        "pick": 11
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 63,
+      "name": "Jim Baechtold",
+      "pos": "SF",
+      "hgt": 76,
+      "weight": 205,
+      "srID": "baechji01",
+      "born": {
+        "year": 1927,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 37,
+          "stre": 35,
+          "spd": 54,
+          "jmp": 54,
+          "endu": 36,
+          "ins": 25,
+          "dnk": 42,
+          "ft": 66,
+          "fg": 49,
+          "tp": 25,
+          "diq": 32,
+          "oiq": 44,
+          "drb": 45,
+          "pss": 41,
+          "reb": 38
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Eastern Kentucky University",
+      "draft": {
+        "year": 1952,
+        "round": 1,
+        "pick": 2
+      },
+      "contract": {
+        "amount": 54,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 64,
+      "name": "Vince Boryla",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "borylvi01",
+      "born": {
+        "year": 1927,
+        "loc": "Indiana"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 38,
+          "spd": 61,
+          "jmp": 63,
+          "endu": 50,
+          "ins": 25,
+          "dnk": 41,
+          "ft": 70,
+          "fg": 55,
+          "tp": 25,
+          "diq": 36,
+          "oiq": 46,
+          "drb": 51,
+          "pss": 43,
+          "reb": 40
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Notre Dame",
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 65,
+      "name": "Carl Braun",
+      "pos": "PG",
+      "hgt": 77,
+      "weight": 180,
+      "srID": "braunca01",
+      "born": {
+        "year": 1927,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 27,
+          "spd": 89,
+          "jmp": 72,
+          "endu": 58,
+          "ins": 40,
+          "dnk": 62,
+          "ft": 83,
+          "fg": 63,
+          "tp": 27,
+          "diq": 48,
+          "oiq": 58,
+          "drb": 57,
+          "pss": 53,
+          "reb": 44
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Colgate",
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 66,
+      "name": "Nat Clifton",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 220,
+      "srID": "cliftna01",
+      "born": {
+        "year": 1922,
+        "loc": "Arkansas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 47,
+          "spd": 51,
+          "jmp": 57,
+          "endu": 46,
+          "ins": 27,
+          "dnk": 41,
+          "ft": 63,
+          "fg": 58,
+          "tp": 25,
+          "diq": 45,
+          "oiq": 53,
+          "drb": 50,
+          "pss": 49,
+          "reb": 54
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Xavier University of Louisiana",
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 67,
+      "name": "Harry Gallatin",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 210,
+      "srID": "gallaha01",
+      "born": {
+        "year": 1927,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 41,
+          "spd": 73,
+          "jmp": 74,
+          "endu": 67,
+          "ins": 52,
+          "dnk": 81,
+          "ft": 81,
+          "fg": 60,
+          "tp": 28,
+          "diq": 54,
+          "oiq": 64,
+          "drb": 53,
+          "pss": 47,
+          "reb": 69
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Truman State University",
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 68,
+      "name": "Al McGuire",
+      "pos": "PG",
+      "hgt": 74,
+      "weight": 180,
+      "srID": "mcguial01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 25,
+          "spd": 67,
+          "jmp": 54,
+          "endu": 26,
+          "ins": 25,
+          "dnk": 26,
+          "ft": 36,
+          "fg": 35,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 31,
+          "drb": 42,
+          "pss": 34,
+          "reb": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "draft": {
+        "year": 1951,
+        "round": 6,
+        "pick": 56
+      },
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 69,
+      "name": "Dick McGuire",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 180,
+      "srID": "mcguidi01",
+      "born": {
+        "year": 1926,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 22,
+          "stre": 36,
+          "spd": 63,
+          "jmp": 51,
+          "endu": 57,
+          "ins": 36,
+          "dnk": 46,
+          "ft": 64,
+          "fg": 56,
+          "tp": 25,
+          "diq": 42,
+          "oiq": 59,
+          "drb": 60,
+          "pss": 66,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 70,
+      "name": "Connie Simmons",
+      "pos": "C",
+      "hgt": 80,
+      "weight": 222,
+      "srID": "simmoco01",
+      "born": {
+        "year": 1925,
+        "loc": "New Jersey"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 36,
+          "spd": 62,
+          "jmp": 70,
+          "endu": 46,
+          "ins": 42,
+          "dnk": 67,
+          "ft": 68,
+          "fg": 57,
+          "tp": 25,
+          "diq": 40,
+          "oiq": 48,
+          "drb": 42,
+          "pss": 44,
+          "reb": 52
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 71,
+      "name": "Ed Smith",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 180,
+      "srID": "smithed01",
+      "born": {
+        "year": 1929,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 25,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 27,
+          "ft": 36,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 28,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 100
+      },
+      "college": "Harvard University",
+      "draft": {
+        "year": 1951,
+        "round": 1,
+        "pick": 6
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 72,
+      "name": "Joe Smyth",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 215,
+      "srID": "smythjo01",
+      "born": {
+        "year": 1929,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 49,
+          "spd": 41,
+          "jmp": 48,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 34,
+          "fg": 28,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 33,
+          "drb": 36,
+          "pss": 26,
+          "reb": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Niagara University",
+      "draft": {
+        "year": 1953,
+        "round": 6
+      },
+      "contract": {
+        "amount": 56,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 5,
+      "pid": 73,
+      "name": "Ernie Vandeweghe",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 195,
+      "srID": "vandeer01",
+      "born": {
+        "year": 1928,
+        "loc": "Quebec"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 30,
+          "spd": 61,
+          "jmp": 56,
+          "endu": 35,
+          "ins": 30,
+          "dnk": 40,
+          "ft": 60,
+          "fg": 49,
+          "tp": 25,
+          "diq": 32,
+          "oiq": 52,
+          "drb": 57,
+          "pss": 45,
+          "reb": 32
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 97
+      },
+      "college": "Colgate",
+      "contract": {
+        "amount": 58,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 74,
+      "name": "Ed Earle",
+      "pos": "SF",
+      "hgt": 75,
+      "weight": 190,
+      "srID": "earleed01",
+      "born": {
+        "year": 1927,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 33,
+          "stre": 30,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 30,
+          "dnk": 29,
+          "ft": 35,
+          "fg": 34,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 43,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 110
+      },
+      "college": "Loyola Chicago",
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 75,
+      "name": "Bill Gabor",
+      "pos": "SG",
+      "hgt": 71,
+      "weight": 170,
+      "srID": "gaborbi01",
+      "born": {
+        "year": 1922,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 19,
+          "stre": 32,
+          "spd": 58,
+          "jmp": 38,
+          "endu": 28,
+          "ins": 25,
+          "dnk": 30,
+          "ft": 68,
+          "fg": 55,
+          "tp": 25,
+          "diq": 39,
+          "oiq": 52,
+          "drb": 54,
+          "pss": 48,
+          "reb": 39
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Syracuse",
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 76,
+      "name": "Bato Govedarica",
+      "pos": "PG",
+      "hgt": 71,
+      "weight": 185,
+      "srID": "govedba01",
+      "born": {
+        "year": 1928,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 19,
+          "stre": 45,
+          "spd": 50,
+          "jmp": 43,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 46,
+          "fg": 28,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 31,
+          "drb": 38,
+          "pss": 27,
+          "reb": 27
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "DePaul",
+      "draft": {
+        "year": 1951,
+        "round": 3,
+        "pick": 25
+      },
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 77,
+      "name": "Billy Kenville",
+      "pos": "SG",
+      "hgt": 74,
+      "weight": 187,
+      "srID": "kenvibi01",
+      "born": {
+        "year": 1930,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 30,
+          "stre": 27,
+          "spd": 62,
+          "jmp": 53,
+          "endu": 34,
+          "ins": 25,
+          "dnk": 36,
+          "ft": 70,
+          "fg": 52,
+          "tp": 25,
+          "diq": 35,
+          "oiq": 45,
+          "drb": 53,
+          "pss": 46,
+          "reb": 44
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. Bonaventure",
+      "draft": {
+        "year": 1953,
+        "round": 3
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 78,
+      "name": "George King",
+      "pos": "PG",
+      "hgt": 72,
+      "weight": 175,
+      "srID": "kingge01",
+      "born": {
+        "year": 1928,
+        "loc": "West Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 22,
+          "stre": 29,
+          "spd": 68,
+          "jmp": 52,
+          "endu": 57,
+          "ins": 31,
+          "dnk": 51,
+          "ft": 65,
+          "fg": 59,
+          "tp": 25,
+          "diq": 50,
+          "oiq": 49,
+          "drb": 58,
+          "pss": 61,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "University of Charleston",
+      "draft": {
+        "year": 1950,
+        "round": 8,
+        "pick": 90
+      },
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 79,
+      "name": "Dick Knostman",
+      "pos": "C",
+      "hgt": 78,
+      "weight": 215,
+      "srID": "knostdi01",
+      "born": {
+        "year": 1931,
+        "loc": "Kansas"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 30,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 32,
+          "ft": 45,
+          "fg": 25,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 40,
+          "drb": 37,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 107
+      },
+      "college": "Kansas State",
+      "draft": {
+        "year": 1953,
+        "round": 2,
+        "pick": 16
+      },
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 80,
+      "name": "Earl Lloyd",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 200,
+      "srID": "lloydea01",
+      "born": {
+        "year": 1928,
+        "loc": "Virginia"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 26,
+          "spd": 66,
+          "jmp": 62,
+          "endu": 50,
+          "ins": 25,
+          "dnk": 45,
+          "ft": 68,
+          "fg": 55,
+          "tp": 25,
+          "diq": 48,
+          "oiq": 42,
+          "drb": 47,
+          "pss": 42,
+          "reb": 51
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "West Virginia State University",
+      "draft": {
+        "year": 1950,
+        "round": 9,
+        "pick": 101
+      },
+      "contract": {
+        "amount": 64,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 81,
+      "name": "Al Masino",
+      "pos": "PG",
+      "hgt": 70,
+      "weight": 174,
+      "srID": "masinal01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 15,
+          "stre": 37,
+          "spd": 58,
+          "jmp": 42,
+          "endu": 33,
+          "ins": 25,
+          "dnk": 31,
+          "ft": 50,
+          "fg": 34,
+          "tp": 25,
+          "diq": 32,
+          "oiq": 44,
+          "drb": 53,
+          "pss": 34,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 96
+      },
+      "college": "Canisius",
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 82,
+      "name": "Jim Neal",
+      "pos": "C",
+      "hgt": 83,
+      "weight": 235,
+      "srID": "nealji01",
+      "born": {
+        "year": 1930,
+        "loc": "South Carolina"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 63,
+          "stre": 37,
+          "spd": 52,
+          "jmp": 70,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 25,
+          "ft": 43,
+          "fg": 35,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 26,
+          "drb": 37,
+          "pss": 29,
+          "reb": 33
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Wofford College",
+      "draft": {
+        "year": 1953,
+        "round": 1,
+        "pick": 7
+      },
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 83,
+      "name": "Mike Novak",
+      "pos": "F",
+      "hgt": 81,
+      "weight": 219,
+      "srID": "novakmi01",
+      "born": {
+        "year": 1915,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 56,
+          "stre": 44,
+          "spd": 56,
+          "jmp": 60,
+          "endu": 28,
+          "ins": 28,
+          "dnk": 25,
+          "ft": 36,
+          "fg": 32,
+          "tp": 25,
+          "diq": 28,
+          "oiq": 44,
+          "drb": 44,
+          "pss": 31,
+          "reb": 28
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 107
+      },
+      "college": "Loyola Chicago",
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 84,
+      "name": "Wally Osterkorn",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 215,
+      "srID": "osterwa01",
+      "born": {
+        "year": 1928,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 41,
+          "spd": 55,
+          "jmp": 60,
+          "endu": 50,
+          "ins": 29,
+          "dnk": 53,
+          "ft": 57,
+          "fg": 51,
+          "tp": 25,
+          "diq": 47,
+          "oiq": 42,
+          "drb": 47,
+          "pss": 44,
+          "reb": 50
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Illinois",
+      "draft": {
+        "year": 1950,
+        "round": 2,
+        "pick": 18
+      },
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 85,
+      "name": "Dolph Schayes",
+      "pos": "SF",
+      "hgt": 80,
+      "weight": 220,
+      "srID": "schaydo01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 52,
+          "stre": 40,
+          "spd": 71,
+          "jmp": 80,
+          "endu": 67,
+          "ins": 54,
+          "dnk": 81,
+          "ft": 86,
+          "fg": 66,
+          "tp": 28,
+          "diq": 55,
+          "oiq": 61,
+          "drb": 55,
+          "pss": 54,
+          "reb": 65
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "NYU",
+      "contract": {
+        "amount": 66,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 6,
+      "pid": 86,
+      "name": "Paul Seymour",
+      "pos": "SF",
+      "hgt": 73,
+      "weight": 180,
+      "srID": "seymopa01",
+      "born": {
+        "year": 1928,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 34,
+          "spd": 74,
+          "jmp": 61,
+          "endu": 67,
+          "ins": 34,
+          "dnk": 58,
+          "ft": 80,
+          "fg": 60,
+          "tp": 27,
+          "diq": 53,
+          "oiq": 56,
+          "drb": 56,
+          "pss": 64,
+          "reb": 44
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Toledo",
+      "contract": {
+        "amount": 60,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 87,
+      "name": "Cal Christensen",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 210,
+      "srID": "chrisca01",
+      "born": {
+        "year": 1927,
+        "loc": "Ohio"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 35,
+          "spd": 56,
+          "jmp": 58,
+          "endu": 36,
+          "ins": 25,
+          "dnk": 43,
+          "ft": 51,
+          "fg": 46,
+          "tp": 25,
+          "diq": 45,
+          "oiq": 42,
+          "drb": 45,
+          "pss": 40,
+          "reb": 45
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Toledo",
+      "draft": {
+        "year": 1950,
+        "round": 5,
+        "pick": 52
+      },
+      "contract": {
+        "amount": 52,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 88,
+      "name": "Jack Coleman",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 195,
+      "srID": "colemja01",
+      "born": {
+        "year": 1924,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 25,
+          "spd": 70,
+          "jmp": 69,
+          "endu": 54,
+          "ins": 31,
+          "dnk": 47,
+          "ft": 59,
+          "fg": 60,
+          "tp": 25,
+          "diq": 54,
+          "oiq": 50,
+          "drb": 50,
+          "pss": 49,
+          "reb": 57
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Louisville",
+      "contract": {
+        "amount": 56,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 89,
+      "name": "Bob Davies",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 175,
+      "srID": "daviebo01",
+      "born": {
+        "year": 1920,
+        "loc": "Pennsylvania"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 31,
+          "spd": 70,
+          "jmp": 51,
+          "endu": 45,
+          "ins": 40,
+          "dnk": 52,
+          "ft": 70,
+          "fg": 60,
+          "tp": 25,
+          "diq": 54,
+          "oiq": 60,
+          "drb": 58,
+          "pss": 62,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Seton Hall",
+      "contract": {
+        "amount": 59,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 90,
+      "name": "Alex Hannum",
+      "pos": "SF",
+      "hgt": 79,
+      "weight": 210,
+      "srID": "hannual01",
+      "born": {
+        "year": 1923,
+        "loc": "California"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 48,
+          "stre": 31,
+          "spd": 62,
+          "jmp": 62,
+          "endu": 35,
+          "ins": 25,
+          "dnk": 34,
+          "ft": 61,
+          "fg": 52,
+          "tp": 25,
+          "diq": 43,
+          "oiq": 48,
+          "drb": 48,
+          "pss": 44,
+          "reb": 47
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "USC",
+      "contract": {
+        "amount": 61,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 91,
+      "name": "Jack McMahon",
+      "pos": "PG",
+      "hgt": 73,
+      "weight": 185,
+      "srID": "mcmahja01",
+      "born": {
+        "year": 1928,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 26,
+          "stre": 34,
+          "spd": 63,
+          "jmp": 53,
+          "endu": 46,
+          "ins": 29,
+          "dnk": 49,
+          "ft": 68,
+          "fg": 56,
+          "tp": 25,
+          "diq": 41,
+          "oiq": 48,
+          "drb": 57,
+          "pss": 57,
+          "reb": 43
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "St. John's",
+      "draft": {
+        "year": 1952,
+        "round": 2
+      },
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 92,
+      "name": "Frank Reddout",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 195,
+      "srID": "reddofr01",
+      "born": {
+        "year": 1931,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 28,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 25,
+          "ins": 50,
+          "dnk": 45,
+          "ft": 50,
+          "fg": 38,
+          "tp": 25,
+          "diq": 28,
+          "oiq": 41,
+          "drb": 33,
+          "pss": 25,
+          "reb": 25
+        }
+      ],
+      "injury": {
+        "type": "Torn Ligament",
+        "gamesRemaining": 105
+      },
+      "college": "Syracuse",
+      "draft": {
+        "year": 1953,
+        "round": 3
+      },
+      "contract": {
+        "amount": 62,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 93,
+      "name": "Arnie Risen",
+      "pos": "C",
+      "hgt": 81,
+      "weight": 200,
+      "srID": "risenar01",
+      "born": {
+        "year": 1924,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 56,
+          "stre": 37,
+          "spd": 64,
+          "jmp": 70,
+          "endu": 54,
+          "ins": 52,
+          "dnk": 70,
+          "ft": 70,
+          "fg": 60,
+          "tp": 25,
+          "diq": 55,
+          "oiq": 51,
+          "drb": 42,
+          "pss": 45,
+          "reb": 61
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Eastern Kentucky University",
+      "contract": {
+        "amount": 53,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 94,
+      "name": "Odie Spears",
+      "pos": "SF",
+      "hgt": 77,
+      "weight": 205,
+      "srID": "spearod01",
+      "born": {
+        "year": 1924,
+        "loc": "Kentucky"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 41,
+          "stre": 35,
+          "spd": 61,
+          "jmp": 59,
+          "endu": 37,
+          "ins": 26,
+          "dnk": 43,
+          "ft": 70,
+          "fg": 53,
+          "tp": 25,
+          "diq": 43,
+          "oiq": 49,
+          "drb": 48,
+          "pss": 44,
+          "reb": 46
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Western Kentucky",
+      "contract": {
+        "amount": 57,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 95,
+      "name": "Norm Swanson",
+      "pos": "SF",
+      "hgt": 78,
+      "weight": 210,
+      "srID": "swansno01",
+      "born": {
+        "year": 1930,
+        "loc": "Illinois"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 44,
+          "stre": 28,
+          "spd": 61,
+          "jmp": 62,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 27,
+          "ft": 43,
+          "fg": 30,
+          "tp": 25,
+          "diq": 25,
+          "oiq": 25,
+          "drb": 37,
+          "pss": 29,
+          "reb": 31
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Detroit Mercy",
+      "draft": {
+        "year": 1953,
+        "round": 2,
+        "pick": 14
+      },
+      "contract": {
+        "amount": 55,
+        "exp": 1954
+      }
+    },
+    {
+      "tid": 7,
+      "pid": 96,
+      "name": "Bobby Wanzer",
+      "pos": "SG",
+      "hgt": 72,
+      "weight": 170,
+      "srID": "wanzebo01",
+      "born": {
+        "year": 1921,
+        "loc": "New York"
+      },
+      "ratings": [
+        {
+          "season": 1954,
+          "hgt": 22,
+          "stre": 32,
+          "spd": 74,
+          "jmp": 52,
+          "endu": 57,
+          "ins": 40,
+          "dnk": 50,
+          "ft": 76,
+          "fg": 60,
+          "tp": 27,
+          "diq": 55,
+          "oiq": 61,
+          "drb": 59,
+          "pss": 56,
+          "reb": 48
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "college": "Seton Hall",
+      "contract": {
+        "amount": 63,
+        "exp": 1954
+      }
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 1,
+      "did": 0,
+      "region": "Milwaukee",
+      "name": "Hawks",
+      "abbrev": "ATL"
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Boston",
+      "name": "Celtics",
+      "abbrev": "BOS"
+    },
+    {
+      "tid": 2,
+      "cid": 1,
+      "did": 0,
+      "region": "Fort Wayne",
+      "name": "Pistons",
+      "abbrev": "DET"
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 0,
+      "region": "Philadelphia",
+      "name": "Warriors",
+      "abbrev": "GSW"
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 0,
+      "region": "Minneapolis",
+      "name": "Lakers",
+      "abbrev": "LAL"
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "region": "New York",
+      "name": "Knicks",
+      "abbrev": "NYK"
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 1,
+      "region": "Syracuse",
+      "name": "Nationals",
+      "abbrev": "PHI"
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 1,
+      "region": "Rochester",
+      "name": "Royals",
+      "abbrev": "SAC"
+    }
+  ],
+  "gameAttributes": {
+    "season": 1954,
+    "phase": 0,
+    "numGames": 82,
+    "quarterLength": 12,
+    "maxRosterSize": 15,
+    "minRosterSize": 10,
+    "godMode": true,
+    "injuryRate": 0,
+    "playIn": false,
+    "salaryCap": 3000,
+    "minContract": 40,
+    "maxContract": 1050,
+    "inflationAvg": 9,
+    "inflationMin": 1,
+    "inflationMax": 22,
+    "inflationStd": 5.0,
+    "pace": 101,
+    "threePointTendencyFactor": 0.06,
+    "threePointAccuracyFactor": 0.82,
+    "twoPointAccuracyFactor": 0.97,
+    "ftAccuracyFactor": 0.97,
+    "blockFactor": 1.06,
+    "stealFactor": 1.1,
+    "turnoverFactor": 1.2,
+    "orbFactor": 1.15,
+    "foulRateFactor": 1.12,
+    "assistFactor": 0.95,
+    "luxuryTaxThreshold": 1000000,
+    "luxuryTax": 1.0,
+    "minPayroll": 0
+  }
+}

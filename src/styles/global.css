@@ -1,0 +1,38 @@
+:root {
+  --bg: #0f1115;
+  --bg-card: #181c23;
+  --border: #262c36;
+  --text: #e8ecf1;
+  --text-dim: #9aa4b2;
+  --accent: #ff6b35;
+  --gold: #f7a600;
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.boot {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 20px;
+  line-height: 1.7;
+}
+
+.boot h1 { font-size: 24px; margin: 0 0 16px; }
+.boot--error pre {
+  background: #2a1418;
+  color: #ff9a9a;
+  padding: 12px;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 12px;
+}
+.hint { color: var(--text-dim); font-size: 13px; }
+code { background: var(--bg-card); padding: 2px 6px; border-radius: 4px; }

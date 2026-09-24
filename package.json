@@ -1,0 +1,22 @@
+{
+  "name": "hoop-life",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "文字式篮球生涯模拟 — 自定义球员、任选年代、属性加点、AI 互动",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "etl:players": "node scripts/etl/build-player-pool.mjs",
+    "etl:check": "node scripts/etl/verify-pool.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}
